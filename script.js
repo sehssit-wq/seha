@@ -56,8 +56,7 @@ function showResultRecord(record) {
       <div class="information-label">المدة بالأيام</div><div class="information-data">${normalize(record.leaveDuration || record.days) || "-"}</div>
       <div class="information-label">اسم الطبيب</div><div class="information-data">${normalize(record.doctorName || record.doctor) || "-"}</div>
       <div class="information-label">المسمى الوظيفي</div><div class="information-data">${normalize(record.jobTitle || record.title) || "-"}</div>
-      <div class="information-label">اسم المستشفى</div><div class="information-data">${normalize(record.hospitalName || record.hospital) || "-"}</div>
-      <div class="information-label">نوع الإجازة</div><div class="information-data">${getLeaveTypeArabic(record.leaveType) || "-"}</div>
+      
     `;
     resultsDisplayBox.style.display = 'block';
   }
