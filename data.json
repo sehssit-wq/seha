@@ -1385,34 +1385,6 @@
       "jobTitle": "اطبيب عام",
       "issueDate": "2026-02-09",
       "leaveType": "GSL"
-    },
-    {
-      "leaveCode": "4439675122",
-      "serviceCode": "4439675122",
-      "nationalId": "1004327480",
-      "idNumber": "1004327480",
-      "name": "مي إبراهيم عبدالله العسالي   ",
-      "admissionDate": "2026-02-09",
-      "dischargeDate": "2026-02-10",
-      "leaveDuration": "2",
-      "doctorName": "محمد مجدي   ",
-      "jobTitle": "اطبيب عام",
-      "issueDate": "2026-02-09",
-      "leaveType": "GSL"
-    },
-       {
-      "leaveCode": "4439651262",
-      "serviceCode": "4436751262",
-      "nationalId": "1004327480",
-      "idNumber": "1004327480",
-      "name": "مي إبراهيم عبدالله العسالي   ",
-      "admissionDate": "2026-02-09",
-      "dischargeDate": "2026-02-10",
-      "leaveDuration": "2",
-      "doctorName": "محمد مجدي   ",
-      "jobTitle": "اطبيب عام",
-      "issueDate": "2026-02-09",
-      "leaveType": "GSL"
-       }
+    }
   ]
 }
