@@ -210,7 +210,7 @@ function resetFormToInitialState() {
   
   if (backButton) backButton.style.display = 'block';
   if (newSearchButton) newSearchButton.style.display = 'none';
-  if (backToListButton) backToListBtn.style.display = 'none';
+  if (backToListButton) backToListButton.style.display = 'none';
   if (loadingSpinnerElement) loadingSpinnerElement.style.display = 'none';
 }
 
