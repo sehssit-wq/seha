@@ -1483,6 +1483,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-02-26",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28739023043",
+      "serviceCode": "28739023043",
+      "nationalId": "1139881922",
+      "idNumber": "1139881922",
+      "name": "ريما ناصر سعد الشهراني  ",
+      "admissionDate": "2026-03-29",
+      "dischargeDate": "2026-03-29",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-29",
+      "leaveType": "PSL"
     }
   ]
 }
