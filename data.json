@@ -1385,6 +1385,20 @@
       "jobTitle": "اطبيب عام",
       "issueDate": "2026-02-09",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "44837600722",
+      "serviceCode": "44837600722",
+      "nationalId": "1122833013",
+      "idNumber": "1122833013",
+      "name": "راشد عبدالله راشد المري  ",
+      "admissionDate": "2026-03-29",
+      "dischargeDate": "2026-03-29",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-29",
+      "leaveType": "PSL"
     }
   ]
 }
