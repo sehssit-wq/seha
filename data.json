@@ -1399,6 +1399,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-29",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26022619233",
+      "serviceCode": "26022619233",
+      "nationalId": "1074059328",
+      "idNumber": "1074059328",
+      "name": "ﻧﺠﻮد ﻣﺤﻤﺪ ﻣﺤﺴﻦ اﻟﻌﺘﻴﺒﻲ  ",
+      "admissionDate": "2026-03-26",
+      "dischargeDate": "2026-03-26",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-29",
+      "leaveType": "PSL"
     }
   ]
 }
