@@ -1413,6 +1413,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-26",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25015147111",
+      "serviceCode": "25015147111",
+      "nationalId": "1112406333",
+      "idNumber": "1112406333",
+      "name": "ﻣﺮﻳﻢ ﻗﻀﻲ اﻟﻌﺎزﻣﻲ  ",
+      "admissionDate": "2026-02-04",
+      "dischargeDate": "2026-02-04",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-02-04",
+      "leaveType": "PSL"
     }
   ]
 }
