@@ -1497,6 +1497,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-29",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28739023046",
+      "serviceCode": "28739023046",
+      "nationalId": "1141143311",
+      "idNumber": "1141143311",
+      "name": "حلا ناصر العطوي  ",
+      "admissionDate": "2026-03-29",
+      "dischargeDate": "2026-03-29",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-29",
+      "leaveType": "PSL"
     }
   ]
 }
