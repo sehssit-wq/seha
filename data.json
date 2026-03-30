@@ -1581,6 +1581,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-30",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267001",
+      "serviceCode": "28790267001",
+      "nationalId": "2225765383",
+      "idNumber": "2225765383",
+      "name": "سالم جمال كلس   ",
+      "admissionDate": "2026-03-30",
+      "dischargeDate": "2026-03-30",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبدالله السعيدان    ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-30",
+      "leaveType": "PSL"
     }
   ]
 }
