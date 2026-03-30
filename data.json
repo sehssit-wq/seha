@@ -1539,6 +1539,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-02-18",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28739023060",
+      "serviceCode": "28739023060",
+      "nationalId": "1134827201",
+      "idNumber": "1134827201",
+      "name": "غيداء سعود النفيعي  ",
+      "admissionDate": "2026-03-02",
+      "dischargeDate": "2026-03-02",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبدالله السعيدان ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-02",
+      "leaveType": "PSL"
     }
   ]
 }
