@@ -1242,6 +1242,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-02-08",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25123137195",
+      "serviceCode": "25123137195",
+      "nationalId": "1125200418",
+      "idNumber": "1125200418",
+      "name": "خوله حامد عبدالله العلياني  ",
+      "admissionDate": "2026-02-24",
+      "dischargeDate": "2026-02-24",
+      "leaveDuration": "1",
+      "doctorName": "محمد عاقب خان سمة الله خان ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-24",
+      "leaveType": "GSL"
     }
   ]
 }
