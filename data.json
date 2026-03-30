@@ -1553,6 +1553,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-03-02",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "44396851239",
+      "serviceCode": "44396851239",
+      "nationalId": "1133043073",
+      "idNumber": "1133043073",
+      "name": "الاء صالح بن عبدالله الزهراني  ",
+      "admissionDate": "2026-03-30",
+      "dischargeDate": "2026-03-30",
+      "leaveDuration": "1",
+      "doctorName": "   حسام اسامة عطرجي   ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-03-30",
+      "leaveType": "PSL"
     }
   ]
 }
