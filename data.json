@@ -1284,6 +1284,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-03-30",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267004",
+      "serviceCode": "28790267004",
+      "nationalId": "1141193753",
+      "idNumber": "1141193753",
+      "name": "وائل نواف زويد المطيري     ",
+      "admissionDate": "2026-02-03",
+      "dischargeDate": "2026-02-03",
+      "leaveDuration": "1",
+      "doctorName": "   فخرية مصطفى مدني     ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-02-03",
+      "leaveType": "PSL"
     }
   ]
 }
