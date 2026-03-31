@@ -1326,6 +1326,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-03-31",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25123137350",
+      "serviceCode": "25123137350",
+      "nationalId": "1137685531",
+      "idNumber": "1137685531",
+      "name": "مشعل فهد صالح الغامدي ",
+      "admissionDate": "2026-02-04",
+      "dischargeDate": "2026-02-04",
+      "leaveDuration": "1",
+      "doctorName": "محمد عاقب خان سمة الله خان ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-02-04",
+      "leaveType": "GSL"
     }
   ]
 }
