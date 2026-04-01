@@ -1396,6 +1396,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-02-23",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267008",
+      "serviceCode": "28790267008",
+      "nationalId": "1136043203",
+      "idNumber": "1136043203",
+      "name": "عبدالعزيز عبدالله القحطاني      ",
+      "admissionDate": "2026-04-01",
+      "dischargeDate": "2026-04-01",
+      "leaveDuration": "1",
+      "doctorName": "   فيصل عبد الكريم     ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-04-01",
+      "leaveType": "PSL"
     }
   ]
 }
