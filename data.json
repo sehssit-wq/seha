@@ -1508,6 +1508,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-04-02",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267015",
+      "serviceCode": "28790267015",
+      "nationalId": "1133057388",
+      "idNumber": "1133057388",
+      "name": "لارا زين العابدين عسيري           ",
+      "admissionDate": "2026-03-31",
+      "dischargeDate": "2026-03-31",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم      ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-03-31",
+      "leaveType": "PSL"
     }
   ]
 }
