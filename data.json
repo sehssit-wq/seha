@@ -1522,6 +1522,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-03-31",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267016",
+      "serviceCode": "28790267016",
+      "nationalId": "1132011485",
+      "idNumber": "1132011485",
+      "name": "امنه علي جبران قضابي           ",
+      "admissionDate": "2026-02-24",
+      "dischargeDate": "2026-02-24",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم      ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-02-24",
+      "leaveType": "PSL"
     }
   ]
 }
