@@ -1564,6 +1564,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-03-25",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267019",
+      "serviceCode": "28790267019",
+      "nationalId": "1135271854",
+      "idNumber": "1135271854",
+      "name": "عبدالله براك ناصر الخالدي            ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم      ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-04-05",
+      "leaveType": "PSL"
     }
   ]
 }
