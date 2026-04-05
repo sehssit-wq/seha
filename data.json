@@ -1606,6 +1606,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-05",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25123128573",
+      "serviceCode": "25123128573",
+      "nationalId": "1127911756",
+      "idNumber": "1127911756",
+      "name": "ايه رائد عبدالجبار المكى ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "اسماء سيد عبده ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-04-05",
+      "leaveType": "GSL"
     }
   ]
 }
