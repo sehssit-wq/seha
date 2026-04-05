@@ -1592,6 +1592,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25123128482",
+      "serviceCode": "25123128482",
+      "nationalId": "1134041423",
+      "idNumber": "1134041423",
+      "name": "نوره صالح العطوي  ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "رانيا سليم ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-04-05",
+      "leaveType": "GSL"
     }
   ]
 }
