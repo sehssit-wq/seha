@@ -1634,6 +1634,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267022",
+      "serviceCode": "28790267022",
+      "nationalId": "1132578160",
+      "idNumber": "1132578160",
+      "name": "صباح احمد شعيب هوساوي              ",
+      "admissionDate": "2026-04-06",
+      "dischargeDate": "2026-04-06",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبد الله السعيدان         ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-06",
+      "leaveType": "PSL"
     }
   ]
 }
