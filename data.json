@@ -1732,6 +1732,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267028",
+      "serviceCode": "28790267028",
+      "nationalId": "1155361247",
+      "idNumber": "1155361247",
+      "name": "محمد ناصر سليمان البلوي              ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبد الله السعيدان         ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-05",
+      "leaveType": "PSL"
     }
   ]
 }
