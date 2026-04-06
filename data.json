@@ -1690,6 +1690,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-06",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267025",
+      "serviceCode": "28790267025",
+      "nationalId": "1133057388",
+      "idNumber": "1133057388",
+      "name": "لارا زين العابدين عسيري              ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبد الله السعيدان         ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-05",
+      "leaveType": "PSL"
     }
   ]
 }
