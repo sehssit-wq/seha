@@ -1704,6 +1704,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267026",
+      "serviceCode": "28790267026",
+      "nationalId": "1130713181",
+      "idNumber": "1130713181",
+      "name": "فراس محمد عبدالرحمن الكنعان               ",
+      "admissionDate": "2026-04-07",
+      "dischargeDate": "2026-04-07",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبد الله السعيدان         ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-07",
+      "leaveType": "PSL"
     }
   ]
 }
