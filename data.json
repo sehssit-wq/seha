@@ -1718,6 +1718,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-07",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267027",
+      "serviceCode": "28790267027",
+      "nationalId": "1137122352",
+      "idNumber": "1137122352",
+      "name": "نوره ابراهیم عبدالله              ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبد الله السعيدان         ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-05",
+      "leaveType": "PSL"
     }
   ]
 }
