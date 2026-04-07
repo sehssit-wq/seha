@@ -1760,6 +1760,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-06",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267030",
+      "serviceCode": "28790267030",
+      "nationalId": "1116765791",
+      "idNumber": "1116765791",
+      "name": "مرام عباش الرويلي                ",
+      "admissionDate": "2026-03-31",
+      "dischargeDate": "2026-03-31",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم          ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-03-31",
+      "leaveType": "PSL"
     }
   ]
 }
