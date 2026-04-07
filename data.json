@@ -1774,6 +1774,20 @@
       "jobTitle": "استشاري ",
       "issueDate": "2026-03-31",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267031",
+      "serviceCode": "28790267031",
+      "nationalId": "1141258978",
+      "idNumber": "1141258978",
+      "name": "ريماس خالد الحجي                ",
+      "admissionDate": "2026-03-04",
+      "dischargeDate": "2026-03-04",
+      "leaveDuration": "1",
+      "doctorName": "   محمد عبدالله القاسم          ",
+      "jobTitle": "استشاري ",
+      "issueDate": "2026-03-04",
+      "leaveType": "PSL"
     }
   ]
 }
