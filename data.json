@@ -1746,6 +1746,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267029",
+      "serviceCode": "28790267029",
+      "nationalId": "1131530717",
+      "idNumber": "1131530717",
+      "name": "شهد سمارة مبارك السمارة               ",
+      "admissionDate": "2026-04-06",
+      "dischargeDate": "2026-04-06",
+      "leaveDuration": "1",
+      "doctorName": "   معاذ عبد الله السعيدان         ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-06",
+      "leaveType": "PSL"
     }
   ]
 }
