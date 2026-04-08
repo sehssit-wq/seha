@@ -1858,6 +1858,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-06",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25123192952",
+      "serviceCode": "25123192952",
+      "nationalId": "1133280493",
+      "idNumber": "1133280493",
+      "name": "سعد فايز سعد الجعيد ",
+      "admissionDate": "2026-04-08",
+      "dischargeDate": "2026-04-08",
+      "leaveDuration": "1",
+      "doctorName": "زكريا فالح الخليل ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-04-08",
+      "leaveType": "GSL"
     }
   ]
 }
