@@ -1816,6 +1816,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267033",
+      "serviceCode": "28790267033",
+      "nationalId": "1126187853",
+      "idNumber": "1126187853",
+      "name": "سلطان حمود القرني                 ",
+      "admissionDate": "2026-04-08",
+      "dischargeDate": "2026-04-08",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-08",
+      "leaveType": "PSL"
     }
   ]
 }
