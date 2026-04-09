@@ -1928,6 +1928,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-09",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26040900967",
+      "serviceCode": "26040900967",
+      "nationalId": "1129097927",
+      "idNumber": "1129097927",
+      "name": "  خواطر الحسين محمد قداح                 ",
+      "admissionDate": "2026-04-09",
+      "dischargeDate": "2026-04-09",
+      "leaveDuration": "1",
+      "doctorName": "    سماح حامد بابكر علي           ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-09",
+      "leaveType": "PSL"
     }
   ]
 }
