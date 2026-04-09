@@ -1914,6 +1914,20 @@
       "jobTitle": "طبيب عام ",
       "issueDate": "2026-04-09",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267036",
+      "serviceCode": "28790267036",
+      "nationalId": "1139768756",
+      "idNumber": "1139768756",
+      "name": "احمد فالح البلوي l                 ",
+      "admissionDate": "2026-04-09",
+      "dischargeDate": "2026-04-09",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-09",
+      "leaveType": "PSL"
     }
   ]
 }
