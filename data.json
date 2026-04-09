@@ -1900,6 +1900,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-08",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790267035",
+      "serviceCode": "28790267035",
+      "nationalId": "1126304961",
+      "idNumber": "1126304961",
+      "name": "فيصل يوسف محمد الحربي                 ",
+      "admissionDate": "2026-04-09",
+      "dischargeDate": "2026-04-09",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام ",
+      "issueDate": "2026-04-09",
+      "leaveType": "PSL"
     }
   ]
 }
