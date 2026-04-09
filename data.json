@@ -1942,6 +1942,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267037",
+      "serviceCode": "28790267037",
+      "nationalId": "1131786384",
+      "idNumber": "1131786384",
+      "name": "   مازن محمد علي عسيري                 ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-05",
+      "leaveType": "PSL"
     }
   ]
 }
