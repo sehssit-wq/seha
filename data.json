@@ -1956,6 +1956,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25123128024",
+      "serviceCode": "25123128024",
+      "nationalId": "1139232894",
+      "idNumber": "1139232894",
+      "name": "رنا محمد الحارثي ",
+      "admissionDate": "2026-04-06",
+      "dischargeDate": "2026-04-06",
+      "leaveDuration": "1",
+      "doctorName": "محمد صالح الغامدي ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-04-06",
+      "leaveType": "GSL"
     }
   ]
 }
