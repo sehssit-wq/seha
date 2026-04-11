@@ -2026,6 +2026,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267042",
+      "serviceCode": "28790267042",
+      "nationalId": "1131899351",
+      "idNumber": "1131899351",
+      "name": "   نايف علي النجعي                  ",
+      "admissionDate": "2026-04-11",
+      "dischargeDate": "2026-04-11",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-11",
+      "leaveType": "PSL"
     }
   ]
 }
