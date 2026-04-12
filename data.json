@@ -2082,6 +2082,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-05",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25123128291",
+      "serviceCode": "25123128291",
+      "nationalId": "1131191957",
+      "idNumber": "1131191957",
+      "name": "عبد الرحمن سعيد عثمان الزهراني ",
+      "admissionDate": "2026-04-12",
+      "dischargeDate": "2026-04-12",
+      "leaveDuration": "1",
+      "doctorName": "شريف علي أحمد",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-04-12",
+      "leaveType": "GSL"
     }
   ]
 }
