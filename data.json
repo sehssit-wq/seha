@@ -2180,6 +2180,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-12",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267049",
+      "serviceCode": "28790267049",
+      "nationalId": "1103657092",
+      "idNumber": "1103657092",
+      "name": "   يحي مران يحي ال مران                        ",
+      "admissionDate": "2026-04-12",
+      "dischargeDate": "2026-04-12",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-12",
+      "leaveType": "PSL"
     }
   ]
 }
