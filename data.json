@@ -2208,6 +2208,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-12",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25123582649",
+      "serviceCode": "25123582649",
+      "nationalId": "1131442152",
+      "idNumber": "1131442152",
+      "name": "ريان محمد عايض الحمياني ",
+      "admissionDate": "2026-03-29",
+      "dischargeDate": "2026-03-29",
+      "leaveDuration": "1",
+      "doctorName": "محمد منير نشار",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-03-29",
+      "leaveType": "PSL"
     }
   ]
 }
