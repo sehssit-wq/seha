@@ -2096,6 +2096,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-12",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "28790267044",
+      "serviceCode": "28790267044",
+      "nationalId": "1129179519",
+      "idNumber": "1129179519",
+      "name": "   نسرين صالح الحويطي                   ",
+      "admissionDate": "2026-04-12",
+      "dischargeDate": "2026-04-12",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-12",
+      "leaveType": "PSL"
     }
   ]
 }
