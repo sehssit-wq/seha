@@ -2124,6 +2124,20 @@
       "jobTitle": "طبيب أسنان",
       "issueDate": "2026-04-12",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267045",
+      "serviceCode": "28790267045",
+      "nationalId": "1140252188",
+      "idNumber": "1140252188",
+      "name": "   جنى محمد سعيد القحطاني                   ",
+      "admissionDate": "2026-04-09",
+      "dischargeDate": "2026-04-09",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-09",
+      "leaveType": "PSL"
     }
   ]
 }
