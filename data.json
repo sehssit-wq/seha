@@ -2068,6 +2068,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-12",
       "leaveType": "GSL"
+    },
+    {
+      "leaveCode": "25123128289",
+      "serviceCode": "25123128289",
+      "nationalId": "1130668336",
+      "idNumber": "1130668336",
+      "name": "عبد الكريم سعود ظاهر الشراري ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-07",
+      "leaveDuration": "3",
+      "doctorName": "شكيب نسيب أبو طاره ",
+      "jobTitle": "طبيب عام",
+      "issueDate": "2026-04-05",
+      "leaveType": "GSL"
     }
   ]
 }
