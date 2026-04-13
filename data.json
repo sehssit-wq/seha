@@ -2250,6 +2250,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-09",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267051",
+      "serviceCode": "28790267051",
+      "nationalId": "1152967632",
+      "idNumber": "1152967632",
+      "name": "   جود محمد                         ",
+      "admissionDate": "2026-04-13",
+      "dischargeDate": "2026-04-13",
+      "leaveDuration": "1",
+      "doctorName": "    راشد محمد القباص          ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-13",
+      "leaveType": "PSL"
     }
   ]
 }
