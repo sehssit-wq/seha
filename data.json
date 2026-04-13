@@ -2278,6 +2278,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-12",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267053",
+      "serviceCode": "28790267053",
+      "nationalId": "1074059328",
+      "idNumber": "1074059328",
+      "name": "   نجود محمد محسن العتيبي                         ",
+      "admissionDate": "2026-04-13",
+      "dischargeDate": "2026-04-13",
+      "leaveDuration": "1",
+      "doctorName": "    رفيق عبده جعفر           ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-13",
+      "leaveType": "PSL"
     }
   ]
 }
