@@ -2320,6 +2320,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-06",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267056",
+      "serviceCode": "28790267056",
+      "nationalId": "1147218331",
+      "idNumber": "1147218331",
+      "name": "   افنان ماجد بن علوش بن محيا                           ",
+      "admissionDate": "2026-04-13",
+      "dischargeDate": "2026-04-13",
+      "leaveDuration": "1",
+      "doctorName": "    رفيق عبده جعفر           ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-13",
+      "leaveType": "PSL"
     }
   ]
 }
