@@ -2418,6 +2418,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-15",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267062",
+      "serviceCode": "28790267062",
+      "nationalId": "1134487097",
+      "idNumber": "1134487097",
+      "name": "   احمد مروان المداح                                   ",
+      "admissionDate": "2026-04-12",
+      "dischargeDate": "2026-04-12",
+      "leaveDuration": "1",
+      "doctorName": "    شريف علي أحمد            ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-12",
+      "leaveType": "PSL"
     }
   ]
 }
