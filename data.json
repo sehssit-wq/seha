@@ -2446,6 +2446,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-14",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267064",
+      "serviceCode": "28790267064",
+      "nationalId": "1062754443",
+      "idNumber": "1062754443",
+      "name": "   فلاح سويلم العطوي                                    ",
+      "admissionDate": "2026-04-14",
+      "dischargeDate": "2026-04-14",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي             ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-14",
+      "leaveType": "PSL"
     }
   ]
 }
