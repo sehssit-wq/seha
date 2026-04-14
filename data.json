@@ -2348,6 +2348,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-16",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790267058",
+      "serviceCode": "28790267058 ",
+      "nationalId": "1136264221",
+      "idNumber": "1136264221",
+      "name": "   مياده علي عبد الحميد محمد الكلابي                             ",
+      "admissionDate": "2026-04-14",
+      "dischargeDate": "2026-04-14",
+      "leaveDuration": "1",
+      "doctorName": "    رفيق عبده جعفر           ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-14",
+      "leaveType": "PSL"
     }
   ]
 }
