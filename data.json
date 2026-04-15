@@ -2516,6 +2516,20 @@
       "jobTitle": "طبيب عام  ",
       "issueDate": "2026-04-15",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790267069",
+      "serviceCode": "28790267069",
+      "nationalId": "1139899254",
+      "idNumber": "1139899254",
+      "name": "   امل عبدالله الرشيدي                                       ",
+      "admissionDate": "2026-04-14",
+      "dischargeDate": "2026-04-15",
+      "leaveDuration": "2",
+      "doctorName": "    عبدالله أحمد الطويلي             ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-14",
+      "leaveType": "PSL"
    }
   ]
 }
