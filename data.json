@@ -2461,5 +2461,19 @@
       "issueDate": "2026-04-14",
       "leaveType": "PSL"
     }
+    {
+      "leaveCode": "28790267065",
+      "serviceCode": "28790267065",
+      "nationalId": "1138621402",
+      "idNumber": "1138621402",
+      "name": "   ابتهال ناجي ال فروان                                     ",
+      "admissionDate": "2026-04-01",
+      "dischargeDate": "2026-04-01",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي             ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-01",
+      "leaveType": "PSL"
+    }
   ]
 }
