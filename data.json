@@ -2642,6 +2642,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-09",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260865",
+      "serviceCode": "28790260865",
+      "nationalId": "1123405621",
+      "idNumber": "1123405621",
+      "name": "   شهد ظاهر محمد سلامة العطوي                                            ",
+      "admissionDate": "2026-02-12",
+      "dischargeDate": "2026-02-12",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-02-12",
+      "leaveType": "PSL"
    }
   ]
 }
