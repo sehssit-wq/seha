@@ -2572,6 +2572,20 @@
       "jobTitle": "أخصائية  ",
       "issueDate": "2026-02-17",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790267072",
+      "serviceCode": "28790267072",
+      "nationalId": "1124227743",
+      "idNumber": "1124227743",
+      "name": "   موسى جمعة الخيبري                                            ",
+      "admissionDate": "2026-04-13",
+      "dischargeDate": "2026-04-13",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي       ",
+      "jobTitle": "طبيب عام  ",
+      "issueDate": "2026-04-14",
+      "leaveType": "PSL"
    }
   ]
 }
