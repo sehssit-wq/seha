@@ -2614,6 +2614,20 @@
       "jobTitle": "أخصائية  ",
       "issueDate": "2026-04-02",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260799",
+      "serviceCode": "28790260799",
+      "nationalId": "1137523203",
+      "idNumber": "1124227743",
+      "name": "   رﻧﺎ ﻳﺎﺳﺮ ﻣﺤﻤﺪ ﺑﺤﺮاوي                                            ",
+      "admissionDate": "2026-04-07",
+      "dischargeDate": "2026-04-07",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-07",
+      "leaveType": "PSL"
    }
   ]
 }
