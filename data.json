@@ -2684,6 +2684,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-02-15",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260868",
+      "serviceCode": "28790260868",
+      "nationalId": "1124994268",
+      "idNumber": "1124994268",
+      "name": "   غزيل نجر الغبيوي                                              ",
+      "admissionDate": "2026-02-26",
+      "dischargeDate": "2026-02-26",
+      "leaveDuration": "1",
+      "doctorName": "    باهي أحمد محمد صغير         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-02-26",
+      "leaveType": "PSL"
    }
   ]
 }
