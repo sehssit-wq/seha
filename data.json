@@ -2726,6 +2726,20 @@
       "jobTitle": "طبيب عام",
       "issueDate": "2026-04-02",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260869",
+      "serviceCode": "28790260869",
+      "nationalId": "1135479846",
+      "idNumber": "1135479846",
+      "name": "   ريتاج ياسر الحربي                                             ",
+      "admissionDate": "2026-04-15",
+      "dischargeDate": "2026-04-16",
+      "leaveDuration": "2",
+      "doctorName": "    عبدالله أحمد الطويلي        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-16",
+      "leaveType": "PSL"
    }
   ]
 }
