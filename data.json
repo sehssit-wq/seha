@@ -2740,20 +2740,6 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-16",
       "leaveType": "PSL"
-   }،
-   {
-      "leaveCode": "28790267691",
-      "serviceCode": "28790267691",
-      "nationalId": "1123405621",
-      "idNumber": "1123405621",
-      "name": "شهد ظاهر محمد سلامة العطوي ",
-      "admissionDate": "2026-04-12",
-      "dischargeDate": "2026-04-12",
-      "leaveDuration": "1",
-      "doctorName": "أسامة محمد عز الدين",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2026-04-12",
-      "leaveType": "PSL"
    }
   ]
 }
