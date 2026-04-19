@@ -2824,6 +2824,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-19",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260877",
+      "serviceCode": "28790260877",
+      "nationalId": "1098754482",
+      "idNumber": "1098754482",
+      "name": "   عائشه عوضه حمود الشهراني                                                  ",
+      "admissionDate": "2026-04-19",
+      "dischargeDate": "2026-04-19",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-19",
+      "leaveType": "PSL"
    }
   ]
 }
