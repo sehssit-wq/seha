@@ -2810,6 +2810,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-05",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260876",
+      "serviceCode": "28790260876",
+      "nationalId": "1133043073",
+      "idNumber": "1133043073",
+      "name": "   الاء صالح بن عبدالله الزهراني                                                 ",
+      "admissionDate": "2026-04-19",
+      "dischargeDate": "2026-04-19",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-19",
+      "leaveType": "PSL"
    }
   ]
 }
