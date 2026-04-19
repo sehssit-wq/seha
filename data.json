@@ -2894,6 +2894,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-01-25",
       "leaveType": "GSL"
+   },
+   {
+      "leaveCode": "28790263951",
+      "serviceCode": "28790263951",
+      "nationalId": "2227484629",
+      "idNumber": "2227484629",
+      "name": "   اثير علي شلهوب العنزي                                              ",
+      "admissionDate": "2026-02-25",
+      "dischargeDate": "2026-02-25",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالولي أحمد عزيز       ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-02-25",
+      "leaveType": "GSL"
    }
   ]
 }
