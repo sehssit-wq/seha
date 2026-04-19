@@ -2796,6 +2796,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-16",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260875",
+      "serviceCode": "28790260875",
+      "nationalId": "1129366421",
+      "idNumber": "1129366421",
+      "name": "   هشام عبدالله بن عبد العزيز التميمي                                              ",
+      "admissionDate": "2026-04-05",
+      "dischargeDate": "2026-04-05",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-05",
+      "leaveType": "PSL"
    }
   ]
 }
