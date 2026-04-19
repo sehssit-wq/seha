@@ -2838,6 +2838,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-19",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260878",
+      "serviceCode": "28790260878",
+      "nationalId": "1098754482",
+      "idNumber": "1098754482",
+      "name": "   ريما مسفر شجاع                                                    ",
+      "admissionDate": "2026-04-15",
+      "dischargeDate": "2026-04-15",
+      "leaveDuration": "1",
+      "doctorName": "    عبدالله أحمد الطويلي        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-15",
+      "leaveType": "PSL"
    }
   ]
 }
