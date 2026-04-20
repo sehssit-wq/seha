@@ -2992,6 +2992,20 @@
       "jobTitle": "أخصائية      ",
       "issueDate": "2026-04-20",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260885",
+      "serviceCode": "28790260885",
+      "nationalId": "1133445765",
+      "idNumber": "1133445765",
+      "name": "   ﺑﯿﺎن ﺑﺘﺎل ﺧﻠﻒ اﻟﺪوﺳﺮي                                                      ",
+      "admissionDate": "31-03-2026",
+      "dischargeDate": "31-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "    معاذ عبد الهادي ابن علي العمري         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "31-03-2026",
+      "leaveType": "PSL"
    }
   ]
 }
