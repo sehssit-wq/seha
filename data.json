@@ -2922,6 +2922,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-15",
       "leaveType": "GSL"
+   },
+   {
+      "leaveCode": "28790260808",
+      "serviceCode": "28790260880",
+      "nationalId": "1114036047",
+      "idNumber": "1114036047",
+      "name": "   الين عايض ابن عواض المالكي                                                     ",
+      "admissionDate": "2026-04-20",
+      "dischargeDate": "2026-04-20",
+      "leaveDuration": "1",
+      "doctorName": "    معاذ عبد الهادي ابن علي العمري         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-20",
+      "leaveType": "PSL"
    }
   ]
 }
