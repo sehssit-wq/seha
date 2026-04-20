@@ -3006,6 +3006,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "31-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260886",
+      "serviceCode": "28790260886",
+      "nationalId": "1143027991",
+      "idNumber": "1143027991",
+      "name": "   صبا فيصل محمد                                                        ",
+      "admissionDate": "19-04-2026",
+      "dischargeDate": "19-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "    معاذ عبد الهادي ابن علي العمري         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "19-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
