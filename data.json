@@ -3090,6 +3090,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-19",
       "leaveType": "GSL"
+   },
+   {
+      "leaveCode": "28790260890",
+      "serviceCode": "28790260890",
+      "nationalId": "1119307500",
+      "idNumber": "1119307500",
+      "name": "   اصيل محمد قاروت                                                         ",
+      "admissionDate": "14-04-2026",
+      "dischargeDate": "14-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "    معاذ عبد الهادي ابن علي العمري         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "14-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
