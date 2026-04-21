@@ -3160,6 +3160,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "19-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260895",
+      "serviceCode": "28790260895",
+      "nationalId": "1129961205",
+      "idNumber": "1129961205",
+      "name": "   عبدالاله ماجد نعماني                                                         ",
+      "admissionDate": "22-04-2026",
+      "dischargeDate": "22-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "    معاذ عبد الهادي ابن علي العمري         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "22-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
