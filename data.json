@@ -3146,6 +3146,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "13-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260894",
+      "serviceCode": "28790260894",
+      "nationalId": "1124363787",
+      "idNumber": "1124363787",
+      "name": "   عبدالاله خالد العنزي                                                         ",
+      "admissionDate": "19-04-2026",
+      "dischargeDate": "20-04-2026",
+      "leaveDuration": "2",
+      "doctorName": "    معاذ عبد الهادي ابن علي العمري         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "19-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
