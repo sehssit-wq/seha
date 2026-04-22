@@ -3174,6 +3174,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "22-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260896",
+      "serviceCode": "28790260896",
+      "nationalId": "1134820446",
+      "idNumber": "1134820446",
+      "name": "   جاسر محمد سليمان البلوي                                                         ",
+      "admissionDate": "22-04-2026",
+      "dischargeDate": "22-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "    معاذ عبد الهادي ابن علي العمري         ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "22-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
