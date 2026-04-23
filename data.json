@@ -3300,6 +3300,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "01-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260905",
+      "serviceCode": "28790260905",
+      "nationalId": "1140084136",
+      "idNumber": "1140084136",
+      "name": "   عبدالعزيز سليمان سندي                                                             ",
+      "admissionDate": "16-04-2026",
+      "dischargeDate": "16-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عامر نديم شيخ            ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "16-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
