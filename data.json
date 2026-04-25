@@ -3426,6 +3426,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "22-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260915",
+      "serviceCode": "28790260915",
+      "nationalId": "1138677024",
+      "idNumber": "1138677024",
+      "name": "   رشا مهدي فريج العقيلي العطوي                   ",
+      "admissionDate": "26-04-2026",
+      "dischargeDate": "26-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عامر نديم شيخ            ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "26-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
