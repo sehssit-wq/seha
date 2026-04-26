@@ -3565,6 +3565,34 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "16-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260925",
+      "serviceCode": "28790260925",
+      "nationalId": "1165808880",
+      "idNumber": "1165808880",
+      "name": "   حور ابراهيم مهدي الدوسري                           ",
+      "admissionDate": "22-04-2026",
+      "dischargeDate": "23-04-2026",
+      "leaveDuration": "2",
+      "doctorName": "      عبدالوهاب القحطاني              ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "22-04-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260925",
+      "serviceCode": "28790260925",
+      "nationalId": "1165808880",
+      "idNumber": "1165808880",
+      "name": "   حور ابراهيم مهدي الدوسري                           ",
+      "admissionDate": "22-04-2026",
+      "dischargeDate": "23-04-2026",
+      "leaveDuration": "2",
+      "doctorName": "      عبدالوهاب القحطاني              ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "22-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
