@@ -3509,6 +3509,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "21-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260921",
+      "serviceCode": "28790260921",
+      "nationalId": "1136022215",
+      "idNumber": "1136022215",
+      "name": "   شادن شادي بن حماد الحارثي                          ",
+      "admissionDate": "21-04-2026",
+      "dischargeDate": "21-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      نوره المالكي             ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "21-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
