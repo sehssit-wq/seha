@@ -3551,6 +3551,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "12-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260924",
+      "serviceCode": "28790260924",
+      "nationalId": "1165808880",
+      "idNumber": "1165808880",
+      "name": "   حور ابراهيم مهدي الدوسري                           ",
+      "admissionDate": "16-04-2026",
+      "dischargeDate": "16-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      نوره المالكي             ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "16-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
