@@ -3495,6 +3495,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "23-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260920",
+      "serviceCode": "28790260920",
+      "nationalId": "1131418921",
+      "idNumber": "1131418921",
+      "name": "   سديم حكيم بن محمد الشهري                         ",
+      "admissionDate": "21-04-2026",
+      "dischargeDate": "21-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عامر نديم شيخ            ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "21-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
