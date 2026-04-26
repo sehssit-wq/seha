@@ -3677,6 +3677,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "26-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790273919",
+      "serviceCode": "28790273919",
+      "nationalId": "1113381543",
+      "idNumber": "1113381543",
+      "name": "   عبدالعزيز حسن عبدالرحمن القرني                                              ",
+      "admissionDate": "2026-04-26",
+      "dischargeDate": "2026-04-26",
+      "leaveDuration": "1",
+      "doctorName": "    عامر الموسى      ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-04-26",
+      "leaveType": "PSL"
    }
   ]
 }
