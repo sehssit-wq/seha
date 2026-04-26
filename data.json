@@ -3593,6 +3593,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "22-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790269741",
+      "serviceCode": "28790269741",
+      "nationalId": "1117537603",
+      "idNumber": "1117537603",
+      "name": "   فرجه محمد عبد الهادي المري                                              ",
+      "admissionDate": "2026-01-26",
+      "dischargeDate": "2026-01-26",
+      "leaveDuration": "2",
+      "doctorName": "    ولاء حسين الجميعي       ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-01-25",
+      "leaveType": "GSL"
    }
   ]
 }
