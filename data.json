@@ -3663,6 +3663,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-13",
       "leaveType": "GSL"
+   },
+   {
+      "leaveCode": "28790260927",
+      "serviceCode": "28790260927",
+      "nationalId": "1098754482",
+      "idNumber": "1098754482",
+      "name": "   عائشه عوضه حمود الشهراني                            ",
+      "admissionDate": "26-04-2026",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "2",
+      "doctorName": "      عبدالوهاب القحطاني              ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "26-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
