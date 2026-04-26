@@ -3454,6 +3454,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "01-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260917",
+      "serviceCode": "28790260917",
+      "nationalId": "1129429518",
+      "idNumber": "1129429518",
+      "name": "   ردعه صالح سالم البريكي                     ",
+      "admissionDate": "06-04-2026",
+      "dischargeDate": "06-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عامر نديم شيخ            ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "06-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
