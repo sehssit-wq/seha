@@ -3635,6 +3635,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "26-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790269963",
+      "serviceCode": "28790269963",
+      "nationalId": "1117537603",
+      "idNumber": "1117537603",
+      "name": "   فرجه محمد عبد الهادي المري                                              ",
+      "admissionDate": "2026-03-01",
+      "dischargeDate": "2026-03-02",
+      "leaveDuration": "2",
+      "doctorName": "    نوف إبراهيم الجري      ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "2026-03-01",
+      "leaveType": "GSL"
    }
   ]
 }
