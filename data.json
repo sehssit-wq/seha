@@ -3817,6 +3817,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "27-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260937",
+      "serviceCode": "28790260936",
+      "nationalId": "1141547297",
+      "idNumber": "1141547297",
+      "name": "   صبا محمد سليمان العطوي                     ",
+      "admissionDate": "12-04-2026 ",
+      "dischargeDate": "12-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "12-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
