@@ -3761,6 +3761,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "27-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260933",
+      "serviceCode": "28790260933",
+      "nationalId": "1133057388",
+      "idNumber": "1133057388",
+      "name": "   لارا زين العابدين عسيري                  ",
+      "admissionDate": "26-04-2026 ",
+      "dischargeDate": "26-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عامر موسى                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "26-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
