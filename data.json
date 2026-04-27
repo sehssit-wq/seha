@@ -3719,6 +3719,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "27-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260930",
+      "serviceCode": "28790260930",
+      "nationalId": "1138897028",
+      "idNumber": "1138897028",
+      "name": "   عبدالله عبدالمحسن الشثري                              ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عامر ندیم شیخ               ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "27-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
