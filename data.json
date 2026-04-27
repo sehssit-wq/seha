@@ -3705,6 +3705,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "02-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260929",
+      "serviceCode": "28790260929",
+      "nationalId": "1140532381",
+      "idNumber": "1140532381",
+      "name": "   صالحه سعود الجعيد                              ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عامر ندیم شیخ               ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "27-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
