@@ -3859,6 +3859,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "03-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260940",
+      "serviceCode": "28790260940",
+      "nationalId": "1132578160",
+      "idNumber": "1132578160",
+      "name": "   صباح احمد شعيب هوساوي                      ",
+      "admissionDate": "28-04-2026 ",
+      "dischargeDate": "28-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "28-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
