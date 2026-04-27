@@ -3789,6 +3789,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "26-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260935",
+      "serviceCode": "28790260935",
+      "nationalId": "1097345688",
+      "idNumber": "1097345688",
+      "name": "   رغد محمد نغيمش العنزي                  ",
+      "admissionDate": "26-04-2026 ",
+      "dischargeDate": "26-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "26-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
