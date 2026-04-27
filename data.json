@@ -3803,6 +3803,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "26-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260936",
+      "serviceCode": "28790260936",
+      "nationalId": "1136366026",
+      "idNumber": "1136366026",
+      "name": "   جنى عبدالهادي القحطاني                    ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "27-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
