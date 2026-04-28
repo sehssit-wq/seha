@@ -4069,6 +4069,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "28-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260956",
+      "serviceCode": "28790260956",
+      "nationalId": "1128399704",
+      "idNumber": "1128399704",
+      "name": "   نوف صالح زين الزهراني                         ",
+      "admissionDate": "28-04-2026 ",
+      "dischargeDate": "28-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمود محمد رفاعي                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "28-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
