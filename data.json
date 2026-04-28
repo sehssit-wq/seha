@@ -3985,6 +3985,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "01-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260950",
+      "serviceCode": "28790260950",
+      "nationalId": "1135958740",
+      "idNumber": "1135958740",
+      "name": "   سعيد علي العاصمي                        ",
+      "admissionDate": "11-02-2026 ",
+      "dischargeDate": "11-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "11-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
