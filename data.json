@@ -4055,6 +4055,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "21-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260955",
+      "serviceCode": "28790260955",
+      "nationalId": "1103931793",
+      "idNumber": "1103931793",
+      "name": "   غدير عقيل الشيخي                         ",
+      "admissionDate": "28-04-2026 ",
+      "dischargeDate": "28-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "28-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
