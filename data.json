@@ -4041,6 +4041,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "15-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260954",
+      "serviceCode": "28790260954",
+      "nationalId": "1130492091",
+      "idNumber": "1130492091",
+      "name": "   لمى مبخوت الهمامي                        ",
+      "admissionDate": "21-04-2026 ",
+      "dischargeDate": "21-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "21-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
