@@ -4083,6 +4083,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "28-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260957",
+      "serviceCode": "28790260957",
+      "nationalId": "1103670129",
+      "idNumber": "1103670129",
+      "name": "   الهنوف محمد عبد الله آل غلفص                          ",
+      "admissionDate": "29-04-2026 ",
+      "dischargeDate": "30-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمود محمد رفاعي                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "29-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
