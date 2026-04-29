@@ -4111,6 +4111,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "28-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260959",
+      "serviceCode": "28790260959",
+      "nationalId": "1004025126",
+      "idNumber": "1004025126",
+      "name": "   رباب حامد محمد الازوري                             ",
+      "admissionDate": "12-04-2026 ",
+      "dischargeDate": "12-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمود محمد رفاعي                ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "12-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
