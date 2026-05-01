@@ -4195,6 +4195,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "30-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260967",
+      "serviceCode": "28790260967",
+      "nationalId": "1136022215",
+      "idNumber": "1136022215",
+      "name": "   شادن شادي حماد الحارثي                                 ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمد منجد                  ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "27-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
