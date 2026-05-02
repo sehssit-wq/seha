@@ -4223,6 +4223,20 @@
       "jobTitle": "استشاري     ",
       "issueDate": "30-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260969",
+      "serviceCode": "28790260969",
+      "nationalId": "1137376644",
+      "idNumber": "1137376644",
+      "name": "   عبدالرحمن سعد عبدالله آل عايض                                  ",
+      "admissionDate": "01-04-2026 ",
+      "dischargeDate": "01-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبدالوهاب                   ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "01-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
