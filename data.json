@@ -4251,6 +4251,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "23-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790273920",
+      "serviceCode": "28790273920",
+      "nationalId": "1041076215",
+      "idNumber": "1041076215",
+      "name": "   مریم صالح ظاهر البلوي                                  ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبدالوهاب                   ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "27-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
