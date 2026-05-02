@@ -4279,6 +4279,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "29-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260972",
+      "serviceCode": "28790260972",
+      "nationalId": "1139877011",
+      "idNumber": "1139877011",
+      "name": "   وجدان محمد العبسي                                  ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "03-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمود محمد رفاعي                    ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
