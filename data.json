@@ -4265,6 +4265,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "27-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260971",
+      "serviceCode": "28790260971",
+      "nationalId": "1103078042",
+      "idNumber": "1103078042",
+      "name": "   فهد محمد الاسمري                                   ",
+      "admissionDate": "29-04-2026 ",
+      "dischargeDate": "29-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبدالوهاب                   ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "29-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
