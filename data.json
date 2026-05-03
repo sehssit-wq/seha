@@ -4447,6 +4447,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "03-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260984",
+      "serviceCode": "28790260984",
+      "nationalId": "1135207205",
+      "idNumber": "1135207205",
+      "name": "   منيره سعييد ظافر الشهراني                                        ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "03-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمد جلال                           ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
