@@ -4321,6 +4321,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "03-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260975",
+      "serviceCode": "28790260975",
+      "nationalId": "1093529293",
+      "idNumber": "1093529293",
+      "name": "   وعد فالح حجاج الرشيدي                                   ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "03-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نايف بن صالح العثيمي                        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
