@@ -4475,6 +4475,20 @@
       "jobTitle": "استشاري     ",
       "issueDate": "03-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260986",
+      "serviceCode": "28790260986",
+      "nationalId": "1138122716",
+      "idNumber": "1138122716 ",
+      "name": "   ابتهال فيصل المسعري                                         ",
+      "admissionDate": "29-04-2026 ",
+      "dischargeDate": "29-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "29-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
