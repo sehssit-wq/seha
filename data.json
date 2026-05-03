@@ -4531,6 +4531,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "03-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260990",
+      "serviceCode": "28790260990",
+      "nationalId": "1126283835",
+      "idNumber": "1126283835 ",
+      "name": "   رعد راشد الحربي                                             ",
+      "admissionDate": "04-05-2026 ",
+      "dischargeDate": "04-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "04-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
