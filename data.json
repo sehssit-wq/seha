@@ -4517,6 +4517,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "27-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260989",
+      "serviceCode": "28790260989",
+      "nationalId": "1107477786",
+      "idNumber": "1107477786 ",
+      "name": "   نوره هويشل الخالدي                                             ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "03-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
