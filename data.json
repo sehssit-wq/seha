@@ -4461,6 +4461,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "03-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260985",
+      "serviceCode": "28790260985",
+      "nationalId": "1132412402",
+      "idNumber": "1132412402 ",
+      "name": "   نوره مساعد المطيري                                         ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "03-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     فرح مجذوب                           ",
+      "jobTitle": "استشاري     ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
