@@ -4307,6 +4307,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "30-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260974",
+      "serviceCode": "28790260974",
+      "nationalId": "1007018458",
+      "idNumber": "1007018458",
+      "name": "   مريم لا في سليم العطوي                                  ",
+      "admissionDate": "30-04-2026 ",
+      "dischargeDate": "30-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     معاذ العمار                        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "30-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
