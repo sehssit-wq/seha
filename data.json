@@ -4391,6 +4391,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "28-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260980",
+      "serviceCode": "28790260980",
+      "nationalId": "1139232894",
+      "idNumber": "1139232894",
+      "name": "   رنا محمد الحارثي                                      ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "03-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     معاذ العمار                          ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
