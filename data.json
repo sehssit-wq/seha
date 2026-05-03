@@ -4377,6 +4377,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "03-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260979",
+      "serviceCode": "28790260979",
+      "nationalId": "1038271076",
+      "idNumber": "1038271076",
+      "name": "   صالحة حسن الشهري                                      ",
+      "admissionDate": "28-04-2026 ",
+      "dischargeDate": "28-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نايف بن صالح العثيمي                        ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "28-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
