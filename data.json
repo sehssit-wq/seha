@@ -4503,6 +4503,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "01-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260988",
+      "serviceCode": "28790260988",
+      "nationalId": "1137131973",
+      "idNumber": "1137131973 ",
+      "name": "   الغلا سيف السهلي                                             ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     أحمد عبدالوهاب                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "27-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
