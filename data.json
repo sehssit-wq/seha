@@ -4587,6 +4587,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "28-04-2026",
       "leaveType": "PSL"
-  }
+  },
+   {
+      "leaveCode": "28790260993",
+      "serviceCode": "28790260993",
+      "nationalId": "1124444827",
+      "idNumber": "1124444827 ",
+      "name": "   وجدان مسند الحربي                                                  ",
+      "admissionDate": "04-05-2026 ",
+      "dischargeDate": "04-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                               ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "04-05-2026",
+      "leaveType": "PSL"
+   }
   ]
 }
