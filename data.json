@@ -4713,6 +4713,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "29-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790261003",
+      "serviceCode": "28790261003",
+      "nationalId": "1128572011",
+      "idNumber": "1128572011 ",
+      "name": "   ثامر محمد ظافر ال جليد                                            ",
+      "admissionDate": "02-02-2026 ",
+      "dischargeDate": "02-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "02-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
