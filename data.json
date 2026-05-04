@@ -4685,6 +4685,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "04-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790261000",
+      "serviceCode": "28790261000",
+      "nationalId": "1133399103",
+      "idNumber": "1133399103 ",
+      "name": "   خالد مصيبيح حمود ال وثيله                                            ",
+      "admissionDate": "29-04-2026 ",
+      "dischargeDate": "29-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "29-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
