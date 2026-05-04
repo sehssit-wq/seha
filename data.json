@@ -4699,6 +4699,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "29-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790269002",
+      "serviceCode": "28790261002",
+      "nationalId": "1131369157",
+      "idNumber": "1131369157 ",
+      "name": "   الجازي نايف علي ال جابر المري                                          ",
+      "admissionDate": "29-03-2026 ",
+      "dischargeDate": "29-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "29-03-2026",
+      "leaveType": "PSL"
    }
   ]
 }
