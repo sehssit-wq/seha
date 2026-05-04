@@ -4629,6 +4629,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "06-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790260996",
+      "serviceCode": "28790260996",
+      "nationalId": "1131369157",
+      "idNumber": "1131369157 ",
+      "name": "   الجازي نايف علي ال جابر المري                                          ",
+      "admissionDate": "12-04-2026 ",
+      "dischargeDate": "15-04-2026",
+      "leaveDuration": "4",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "12-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
