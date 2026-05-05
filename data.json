@@ -4828,6 +4828,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "05-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790261020",
+      "serviceCode": "28790261020",
+      "nationalId": "1121512030",
+      "idNumber": "1121512030 ",
+      "name": "   حمد هادي حمد ال هدیسان                                             ",
+      "admissionDate": "12-02-2026 ",
+      "dischargeDate": "12-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "12-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
