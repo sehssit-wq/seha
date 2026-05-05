@@ -1,17 +1,6 @@
  {
   "leaves": [
     {
-      "idNumber": "1165693837",
-      "name": "منايا ملهي البلوي",
-      "admissionDate": "2025-11-02",
-      "dischargeDate": "2025-11-02",
-      "leaveDuration": "1",
-      "doctorName": "محمد الشهراني",
-      "jobTitle": "طبيب عام ",
-      "issueDate": "2025-11-02",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851968",
       "serviceCode": "44396851968",
       "nationalId": "1125808798",
