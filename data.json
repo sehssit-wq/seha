@@ -4716,6 +4716,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "03-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287631",
+      "serviceCode": "28790287631",
+      "nationalId": "1144750625",
+      "idNumber": "1144750625 ",
+      "name": "   محمد عبدالله بن لادن                                              ",
+      "admissionDate": "05-05-2026 ",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "05-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
