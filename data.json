@@ -1,20 +1,6 @@
  {
   "leaves": [
     {
-      "leaveCode": "44396851968",
-      "serviceCode": "44396851968",
-      "nationalId": "1125808798",
-      "idNumber": "1125808798",
-      "name": "عبدالعزيز أحمد محمد القريقري",
-      "admissionDate": "2025-09-10",
-      "dischargeDate": "2025-09-10",
-      "leaveDuration": "1",
-      "doctorName": "محمد الشهراني",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-09-10",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851969",
       "serviceCode": "44396851969",
       "nationalId": "1125808798",
