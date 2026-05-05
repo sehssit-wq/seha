@@ -4688,6 +4688,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "12-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287629",
+      "serviceCode": "28790287629",
+      "nationalId": "1184636593",
+      "idNumber": "1184636593 ",
+      "name": "   لیان محمد سعود                                              ",
+      "admissionDate": "26-04-2026 ",
+      "dischargeDate": "30-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "26-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
