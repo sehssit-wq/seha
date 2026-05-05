@@ -4828,6 +4828,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "28-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790266221",
+      "serviceCode": "28790266221",
+      "nationalId": "1165808880",
+      "idNumber": "1165808880",
+      "name": "   حور ابراهيم مهدي الدوسري                       ",
+      "admissionDate": "05-05-2026",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عبدالوهاب القحطاني               ",
+      "jobTitle": "طبيب عام     ",
+      "issueDate": "05-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
