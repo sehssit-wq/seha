@@ -4815,29 +4815,15 @@
    {
       "leaveCode": "28790261009",
       "serviceCode": "28790261009",
-      "nationalId": "44705410",
-      "idNumber": "44705410 ",
+      "nationalId": "1140057744",
+      "idNumber": "1140057744 ",
       "name": "   ريماس حميد محيسن السالمي                                              ",
-      "admissionDate": "27-04-2026 ",
-      "dischargeDate": "27-04-2026",
+      "admissionDate": "04-05-2026 ",
+      "dischargeDate": "04-05-2026",
       "leaveDuration": "1",
       "doctorName": "     عبدالوهاب القحطاني                             ",
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
-      "issueDate": "27-04-2026",
-      "leaveType": "PSL"
-   },
-   {
-      "leaveCode": "28790287628",
-      "serviceCode": "28790287628",
-      "nationalId": "1165808880",
-      "idNumber": "1165808880 ",
-      "name": "   حور ابراهيم مهدي الدوسري                                               ",
-      "admissionDate": "05-05-2026 ",
-      "dischargeDate": "05-05-2026",
-      "leaveDuration": "1",
-      "doctorName": "     عبدالوهاب القحطاني                             ",
-      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
-      "issueDate": "05-05-2026",
+      "issueDate": "04-05-2026",
       "leaveType": "PSL"
    }
   ]
