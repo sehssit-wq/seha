@@ -4730,6 +4730,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "05-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287632",
+      "serviceCode": "28790287632",
+      "nationalId": "1152225908",
+      "idNumber": "1152225908 ",
+      "name": "   عُلا حسن القحطاني                                               ",
+      "admissionDate": "04-05-2026 ",
+      "dischargeDate": "04-05-2026",
+      "leaveDuration": "4",
+      "doctorName": "     عبدالوهاب القحطاني                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "04-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
