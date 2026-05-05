@@ -4702,6 +4702,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "26-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287630",
+      "serviceCode": "28790287630",
+      "nationalId": "1116589282",
+      "idNumber": "1116589282 ",
+      "name": "   عبدالله خالد مختوم                                              ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "4",
+      "doctorName": "     عبدالوهاب القحطاني                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
