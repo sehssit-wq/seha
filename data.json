@@ -4811,6 +4811,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "09-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790266220",
+      "serviceCode": "28790266220",
+      "nationalId": "1140057744",
+      "idNumber": "1140057744 ",
+      "name": "   ريماس حميد محيسن السالمي                                            ",
+      "admissionDate": "04-05-2026 ",
+      "dischargeDate": "04-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "04-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
