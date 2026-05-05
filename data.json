@@ -4744,6 +4744,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "04-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287635",
+      "serviceCode": "28790287635",
+      "nationalId": "1083612588",
+      "idNumber": "1083612588 ",
+      "name": "   منيره شعيفان مصيبيح                                                  ",
+      "admissionDate": "05-05-2026 ",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عيسى الصادق عثمان حامد                              ",
+      "jobTitle": "نائب اول     ",
+      "issueDate": "05-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
