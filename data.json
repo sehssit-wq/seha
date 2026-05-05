@@ -4758,6 +4758,20 @@
       "jobTitle": "نائب اول     ",
       "issueDate": "05-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287636",
+      "serviceCode": "28790287636",
+      "nationalId": "1118142833",
+      "idNumber": "1118142833 ",
+      "name": "   سلطان محمد الجهني                                            ",
+      "admissionDate": "04-05-2026 ",
+      "dischargeDate": "04-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "04-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
