@@ -4786,6 +4786,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "15-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287638",
+      "serviceCode": "28790287638",
+      "nationalId": "1126851284",
+      "idNumber": "1126851284 ",
+      "name": "   فواز محمد سعيد القرني                                            ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻋﺒﺪاﻟﻮﻫﺎب اﻟﻘﺤﻄﺎﻧﻲ                            ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "06-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
