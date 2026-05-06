@@ -4828,6 +4828,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "06-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287641",
+      "serviceCode": "28790287641",
+      "nationalId": "1083947992",
+      "idNumber": "1083947992 ",
+      "name": "   ايمان صالح ال هضبان                                              ",
+      "admissionDate": "07-05-2026 ",
+      "dischargeDate": "07-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "07-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
