@@ -4842,6 +4842,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "07-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287642",
+      "serviceCode": "28790287642",
+      "nationalId": "1091888790",
+      "idNumber": "1091888790 ",
+      "name": "   رغد بنت عبد الحكيم حامد الغامدي                                             ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "06-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
