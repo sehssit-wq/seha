@@ -4856,6 +4856,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "06-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287643",
+      "serviceCode": "28790287643",
+      "nationalId": "1131633487",
+      "idNumber": "1131633487 ",
+      "name": "   اريام عبدالله سعيد ال سالم                                              ",
+      "admissionDate": "05-05-2026 ",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمود متولي                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "05-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
