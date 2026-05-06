@@ -4814,6 +4814,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "06-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287640",
+      "serviceCode": "28790287640",
+      "nationalId": "2222355253",
+      "idNumber": "2222355253 ",
+      "name": "   خالد فيصل الصخري                                             ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                             ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "06-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
