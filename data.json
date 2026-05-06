@@ -4912,6 +4912,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "02-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287647",
+      "serviceCode": "28790287647",
+      "nationalId": "1128992482",
+      "idNumber": "1128992482 ",
+      "name": "   فواز سليمان عطالله رفاده                                               ",
+      "admissionDate": "16-02-2026 ",
+      "dischargeDate": "16-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                              ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "16-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
