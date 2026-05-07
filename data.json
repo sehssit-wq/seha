@@ -15,20 +15,6 @@
       "leaveType": "PSL"
    },
     {
-      "leaveCode": "44396851989",
-      "serviceCode": "44396851989",
-      "nationalId": "1064545724",
-      "idNumber": "1064545724",
-      "name": "نوال عواض اسمير الحربي ",
-      "admissionDate": "2025-11-19",
-      "dischargeDate": "2025-11-20",
-      "leaveDuration": "2",
-      "doctorName": "محمد لطفي",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-19",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851990",
       "serviceCode": "44396851990",
       "nationalId": "1131191957",
@@ -5065,6 +5051,20 @@
       "doctorName": "     عبدالوهاب القحطاني                                ",
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "08-04-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287663",
+      "serviceCode": "28790287663",
+      "nationalId": "1135479846",
+      "idNumber": "1135479846",
+      "name": "   ريتاج ياسر الحربي                                                      ",
+      "admissionDate": "06-04-2026 ",
+      "dischargeDate": "06-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     حسن محمد حسن                                 ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "06-04-2026",
       "leaveType": "PSL"
    }
   ]
