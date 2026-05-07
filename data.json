@@ -15,20 +15,6 @@
       "leaveType": "PSL"
    },
     {
-      "leaveCode": "44396851985",
-      "serviceCode": "44396851985",
-      "nationalId": "1135204053",
-      "idNumber": "1135204053",
-      "name": "تركي بن محمد بن حمد الفهيد ",
-      "admissionDate": "2025-11-05",
-      "dischargeDate": "2025-11-05",
-      "leaveDuration": "1",
-      "doctorName": "ابراهيم الخلف",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-05",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851986",
       "serviceCode": "44396851986",
       "nationalId": "1095760664",
@@ -5065,6 +5051,20 @@
       "doctorName": "     حسن محمد حسن                               ",
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "06-05-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287659",
+      "serviceCode": "28790287659",
+      "nationalId": "1132604537",
+      "idNumber": "1132604537",
+      "name": "   باسل بن عبدالله بن عيسى مكي                                                  ",
+      "admissionDate": "03-03-2026 ",
+      "dischargeDate": "03-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "     حسن محمد حسن                               ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "03-03-2026",
       "leaveType": "PSL"
    }
   ]
