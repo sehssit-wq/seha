@@ -15,20 +15,6 @@
       "leaveType": "PSL"
    },
     {
-      "leaveCode": "44396851988",
-      "serviceCode": "44396851988",
-      "nationalId": "1130668336",
-      "idNumber": "1130668336",
-      "name": "عبد الكريم سعود ظاهر الدعيجاء الشراري",
-      "admissionDate": "2025-11-17",
-      "dischargeDate": "2025-11-17",
-      "leaveDuration": "1",
-      "doctorName": "عبدالله البطحي",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-17",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851989",
       "serviceCode": "44396851989",
       "nationalId": "1064545724",
@@ -5065,6 +5051,20 @@
       "doctorName": "     عبدالوهاب القحطاني                                ",
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "27-04-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287662",
+      "serviceCode": "28790287662",
+      "nationalId": "1139831307",
+      "idNumber": "1139831307",
+      "name": "   اميره سعد علي القحطاني                                                     ",
+      "admissionDate": "08-04-2026 ",
+      "dischargeDate": "08-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                                ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "08-04-2026",
       "leaveType": "PSL"
    }
   ]
