@@ -15,20 +15,6 @@
       "leaveType": "PSL"
    },
     {
-      "leaveCode": "44396851986",
-      "serviceCode": "44396851986",
-      "nationalId": "1095760664",
-      "idNumber": "1095760664",
-      "name": "تركي خضران المنتشري",
-      "admissionDate": "2025-11-13",
-      "dischargeDate": "2025-11-13",
-      "leaveDuration": "1",
-      "doctorName": "ابراهيم الخلف",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-13",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851987",
       "serviceCode": "44396851987",
       "nationalId": "1020986780",
@@ -5065,6 +5051,20 @@
       "doctorName": "     حسن محمد حسن                               ",
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "03-03-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287660",
+      "serviceCode": "28790287660",
+      "nationalId": "1139831307",
+      "idNumber": "1139831307",
+      "name": "   اميره سعد علي القحطاني                                                     ",
+      "admissionDate": "20-04-2026 ",
+      "dischargeDate": "20-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                                ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "20-04-2026",
       "leaveType": "PSL"
    }
   ]
