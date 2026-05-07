@@ -5066,6 +5066,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "12-10-2025",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287658",
+      "serviceCode": "28790287658",
+      "nationalId": "1133454510",
+      "idNumber": "1133454510",
+      "name": "   يزيد فواز البلوي                                                  ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     حسن محمد حسن                               ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "06-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
