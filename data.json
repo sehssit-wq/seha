@@ -13,21 +13,7 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "29-04-2026",
       "leaveType": "PSL"
-    },
-    {
-      "leaveCode": "44396851984",
-      "serviceCode": "44396851984",
-      "nationalId": "1125982288",
-      "idNumber": "1125982288",
-      "name": "ربى حسن محمد المالكي",
-      "admissionDate": "2025-11-10",
-      "dischargeDate": "2025-11-10",
-      "leaveDuration": "1",
-      "doctorName": "محمد الشهراني",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-10",
-      "leaveType": "GSL"
-    },
+   },
     {
       "leaveCode": "44396851985",
       "serviceCode": "44396851985",
