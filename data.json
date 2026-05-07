@@ -15,48 +15,6 @@
       "leaveType": "PSL"
    },
     {
-      "leaveCode": "44396851991",
-      "serviceCode": "44396851991",
-      "nationalId": "1130668336",
-      "idNumber": "1130668336",
-      "name": "عبد الكريم سعود ظاهر  الشراري",
-      "admissionDate": "2025-11-19",
-      "dischargeDate": "2025-11-19",
-      "leaveDuration": "1",
-      "doctorName": "عبدالله البطحي",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-19",
-      "leaveType": "GSL"
-    },
-    {
-      "leaveCode": "44396851992",
-      "serviceCode": "44396851992",
-      "nationalId": "1137523203",
-      "idNumber": "1137523203",
-      "name": "رنا ياسر محمد بحراوي",
-      "admissionDate": "2025-11-20",
-      "dischargeDate": "2025-11-20",
-      "leaveDuration": "1",
-      "doctorName": "زكريا فالح الخليل",
-      "jobTitle": "طبيب عام ",
-      "issueDate": "2025-11-20",
-      "leaveType": "GSL"
-    },
-    {
-      "leaveCode": "44396851993",
-      "serviceCode": "44396851993",
-      "nationalId": "1129530364",
-      "idNumber": "1129530364",
-      "name": "مشاري خالد عبدالله القرني",
-      "admissionDate": "2025-11-20",
-      "dischargeDate": "2025-11-20",
-      "leaveDuration": "1",
-      "doctorName": "زكريا فالح الخليل",
-      "jobTitle": "طبيب طوارى",
-      "issueDate": "2025-11-20",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851994",
       "serviceCode": "44396851994",
       "nationalId": "1131117648",
