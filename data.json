@@ -15,20 +15,6 @@
       "leaveType": "PSL"
    },
     {
-      "leaveCode": "44396851987",
-      "serviceCode": "44396851987",
-      "nationalId": "1020986780",
-      "idNumber": "1020986780",
-      "name": "انتصار سعد سعيد ال سعيد",
-      "admissionDate": "2025-11-16",
-      "dischargeDate": "2025-11-16",
-      "leaveDuration": "1",
-      "doctorName": "اسامة بدوي ",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-16",
-      "leaveType": "SPL"
-    },
-    {
       "leaveCode": "44396851988",
       "serviceCode": "44396851988",
       "nationalId": "1130668336",
@@ -5065,6 +5051,20 @@
       "doctorName": "     عبدالوهاب القحطاني                                ",
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "20-04-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287661",
+      "serviceCode": "28790287661",
+      "nationalId": "1139831307",
+      "idNumber": "1139831307",
+      "name": "   اميره سعد علي القحطاني                                                     ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالوهاب القحطاني                                ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "27-04-2026",
       "leaveType": "PSL"
    }
   ]
