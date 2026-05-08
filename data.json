@@ -5066,6 +5066,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "12-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287668",
+      "serviceCode": "28790287668",
+      "nationalId": "1059963395",
+      "idNumber": "1059963395",
+      "name": "   إيمان مسلم رفيع البلوي                                                       ",
+      "admissionDate": "09-05-2026 ",
+      "dischargeDate": "09-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمود متولي                                   ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "09-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
