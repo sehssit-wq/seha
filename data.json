@@ -5094,6 +5094,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "07-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287670",
+      "serviceCode": "28790287670",
+      "nationalId": "1130995747",
+      "idNumber": "1130995747",
+      "name": "   فهد عبدالهادي الحارثي                                                         ",
+      "admissionDate": "15-02-2026 ",
+      "dischargeDate": "15-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمد جلال                                    ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "15-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
