@@ -5080,6 +5080,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "09-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287669",
+      "serviceCode": "28790287669",
+      "nationalId": "1091888790",
+      "idNumber": "1091888790",
+      "name": "   رغد بنت عبد الحكيم حامد الغامدي                                                        ",
+      "admissionDate": "07-05-2026 ",
+      "dischargeDate": "07-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمود متولي                                   ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "07-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
