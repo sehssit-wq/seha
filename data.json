@@ -5122,6 +5122,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "10-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287672",
+      "serviceCode": "28790287672",
+      "nationalId": "1133445765",
+      "idNumber": "1133445765",
+      "name": "   بیان بتال خلف الدوسري                                                         ",
+      "admissionDate": "24-02-2026 ",
+      "dischargeDate": "24-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبدالله أحمد الطويلي                                    ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "24-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
