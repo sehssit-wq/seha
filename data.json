@@ -5136,6 +5136,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "24-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287673",
+      "serviceCode": "28790287673",
+      "nationalId": "1133445765",
+      "idNumber": "1133445765",
+      "name": "   بیان بتال خلف الدوسري                                                         ",
+      "admissionDate": "03-03-2026 ",
+      "dischargeDate": "03-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمود متولي                                      ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "03-03-2026",
+      "leaveType": "PSL"
    }
   ]
 }
