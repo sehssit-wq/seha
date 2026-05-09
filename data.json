@@ -5150,6 +5150,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "03-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287674",
+      "serviceCode": "28790287674",
+      "nationalId": "1093002226",
+      "idNumber": "1093002226",
+      "name": "   لمى فهد سعد بن دلاك                                                          ",
+      "admissionDate": "10-05-2026 ",
+      "dischargeDate": "10-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمود متولي                                      ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "10-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
