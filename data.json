@@ -5108,6 +5108,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "15-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287671",
+      "serviceCode": "28790287671",
+      "nationalId": "1133445765",
+      "idNumber": "1133445765",
+      "name": "   بیان بتال خلف الدوسري                                                         ",
+      "admissionDate": "22-02-2026 ",
+      "dischargeDate": "22-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمد جلال                                    ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "22-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
