@@ -5178,6 +5178,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "07-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287676",
+      "serviceCode": "28790287676",
+      "nationalId": "1131486936",
+      "idNumber": "1131486936",
+      "name": "   نوره علوش عنان مناحي                                                          ",
+      "admissionDate": "24-02-2026 ",
+      "dischargeDate": "24-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     حسن محمد حسن                                      ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
+      "issueDate": "24-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
