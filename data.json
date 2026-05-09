@@ -5192,6 +5192,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم     ",
       "issueDate": "24-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287677",
+      "serviceCode": "28790287677",
+      "nationalId": "1131486936",
+      "idNumber": "1131486936",
+      "name": "   نوره علوش عنان مناحي                                                          ",
+      "admissionDate": "04-03-2026 ",
+      "dischargeDate": "04-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                       ",
+      "jobTitle": "أخصائية      ",
+      "issueDate": "04-03-2026",
+      "leaveType": "PSL"
    }
   ]
 }
