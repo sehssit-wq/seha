@@ -5332,6 +5332,20 @@
       "jobTitle": "أخصائية       ",
       "issueDate": "05-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287688",
+      "serviceCode": "28790287688",
+      "nationalId": "1134420759",
+      "idNumber": "1134420759",
+      "name": "   جنى وليد العمري السفياني                                                               ",
+      "admissionDate": "10-05-2026 ",
+      "dischargeDate": "10-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate": 10-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
