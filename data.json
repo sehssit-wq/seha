@@ -5360,6 +5360,20 @@
       "jobTitle": "أخصائية       ",
       "issueDate":" 10-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287690",
+      "serviceCode": "28790287690",
+      "nationalId": "1138939556",
+      "idNumber": "1138939556",
+      "name": "   مشعل عبدالله سعيد الاسمري                                                                ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate":" 06-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
