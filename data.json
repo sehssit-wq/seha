@@ -5290,6 +5290,20 @@
       "jobTitle": "أخصائية       ",
       "issueDate": "16-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287684",
+      "serviceCode": "28790287684",
+      "nationalId": "1135479846",
+      "idNumber": "1135479846",
+      "name": "   ريتاج ياسر الحربي                                                            ",
+      "admissionDate": "20-04-2026 ",
+      "dischargeDate": "20-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate": "20-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
