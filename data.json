@@ -5304,6 +5304,20 @@
       "jobTitle": "أخصائية       ",
       "issueDate": "20-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287685",
+      "serviceCode": "28790287685",
+      "nationalId": "1131956193",
+      "idNumber": "1131956193",
+      "name": "   مهند يحيى محمد القحطاني                                                            ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "03-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate": "03-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
