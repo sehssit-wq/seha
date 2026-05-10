@@ -5332,6 +5332,20 @@
       "jobTitle": "أخصائية       ",
       "issueDate": "11-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287687",
+      "serviceCode": "28790287687",
+      "nationalId": "1124253673",
+      "idNumber": "1124253673",
+      "name": "   انجود عبدالله فهيد الغربي                                                              ",
+      "admissionDate": "05-05-2026 ",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate": 05-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
