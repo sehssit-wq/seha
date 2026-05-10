@@ -5430,6 +5430,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate": "05-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287695",
+      "serviceCode": "28790287695",
+      "nationalId": "1142767464",
+      "idNumber": "1142767464",
+      "name": "   عبدالله سالم سفاح                                                             ",
+      "admissionDate": "08-04-2026 ",
+      "dischargeDate": "08-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمد جلال                                           ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate": "08-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
