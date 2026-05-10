@@ -5234,6 +5234,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم      ",
       "issueDate": "05-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287680",
+      "serviceCode": "28790287680",
+      "nationalId": "1134822467",
+      "idNumber": "1134822467",
+      "name": "   ﻓﻬﺪ ﻓﺎﻟﺢ اﻟﺸﻬﺮاﻧﻲ                                                            ",
+      "admissionDate": "26-04-2026 ",
+      "dischargeDate": "26-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﻌﺎذ ﻋﺒﺪ اﻟﻬﺎدي اﺑﻦ ﻋﻠﻲ اﻟﻌﻤﺮي                                       ",
+      "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم      ",
+      "issueDate": "26-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
