@@ -5206,6 +5206,20 @@
       "jobTitle": "أخصائية      ",
       "issueDate": "04-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287678",
+      "serviceCode": "28790287678",
+      "nationalId": "1155304122",
+      "idNumber": "1155304122",
+      "name": "   دانه صالح سلمان البلوي                                                           ",
+      "admissionDate": "10-05-2026 ",
+      "dischargeDate": "10-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                       ",
+      "jobTitle": "أخصائية      ",
+      "issueDate": "10-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
