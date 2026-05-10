@@ -5374,6 +5374,20 @@
       "jobTitle": "أخصائية       ",
       "issueDate":" 06-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287691",
+      "serviceCode": "28790287691",
+      "nationalId": "1145567341",
+      "idNumber": "1145567341",
+      "name": "   ود علي يحي حكمي                                                             ",
+      "admissionDate": "14-05-2026 ",
+      "dischargeDate": "14-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate": "14-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
