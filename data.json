@@ -5248,6 +5248,20 @@
       "jobTitle": "ﻃﺒﻴﺐ ﻋﺎم      ",
       "issueDate": "26-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287681",
+      "serviceCode": "28790287681",
+      "nationalId": "1134394129",
+      "idNumber": "1134394129",
+      "name": "   سلمى رباح الغالب                                                            ",
+      "admissionDate": "10-05-2026 ",
+      "dischargeDate": "10-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate": "10-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
