@@ -5416,6 +5416,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate": "09-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287694",
+      "serviceCode": "28790287694",
+      "nationalId": "1141014264",
+      "idNumber": "1141014264",
+      "name": "   محمد عبدالله السبيعي                                                             ",
+      "admissionDate": "05-03-2026 ",
+      "dischargeDate": "05-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمد جلال                                           ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate": "05-03-2026",
+      "leaveType": "PSL"
    }
   ]
 }
