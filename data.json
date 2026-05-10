@@ -5346,6 +5346,20 @@
       "jobTitle": "أخصائية       ",
       "issueDate": "10-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287689",
+      "serviceCode": "28790287689",
+      "nationalId": "1106556820",
+      "idNumber": "1106556820",
+      "name": "   ﻋﻤﺮ ﻣﺒﺎرك اﻟﻌﻨﺰي                                                                ",
+      "admissionDate": "10-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "3",
+      "doctorName": "     رانيا سليم                                           ",
+      "jobTitle": "أخصائية       ",
+      "issueDate":" 10-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
