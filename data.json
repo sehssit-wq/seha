@@ -5486,6 +5486,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 12-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287699",
+      "serviceCode": "28790287699",
+      "nationalId": "1125182244",
+      "idNumber": "1125182244",
+      "name": "   رياض عايض ابن عواض المالكي                                                                 ",
+      "admissionDate": "11-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "2",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 11-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
