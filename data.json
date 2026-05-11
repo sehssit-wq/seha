@@ -5542,6 +5542,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 06-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287708",
+      "serviceCode": "28790287708",
+      "nationalId": "1106556820",
+      "idNumber": "1106556820",
+      "name": "   عمر مبارك العنزي                                                                    ",
+      "admissionDate": "13-05-2026 ",
+      "dischargeDate": "14-05-2026",
+      "leaveDuration": "2",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 13-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
