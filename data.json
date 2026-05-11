@@ -5486,6 +5486,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 11-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287700",
+      "serviceCode": "28790287700",
+      "nationalId": "11251821138389364244",
+      "idNumber": "1138389364",
+      "name": "   حنان حسين خبراني                                                                  ",
+      "admissionDate": "11-05-2026 ",
+      "dischargeDate": "11-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 11-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
