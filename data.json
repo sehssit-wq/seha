@@ -5542,6 +5542,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 24-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287705",
+      "serviceCode": "28790287705",
+      "nationalId": "2207066347",
+      "idNumber": "2207066347",
+      "name": "   سلطان عقيل مبخوت النهدي                                                                   ",
+      "admissionDate": "11-05-2026 ",
+      "dischargeDate": "11-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 11-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
