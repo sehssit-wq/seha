@@ -5444,6 +5444,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate": "08-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287696",
+      "serviceCode": "28790287696",
+      "nationalId": "1138939556",
+      "idNumber": "1138939556",
+      "name": "   مشعل عبدالله سعيد الاسمري                                                                ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "27-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     مروة القمر محمد يوسف                                           ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 27-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
