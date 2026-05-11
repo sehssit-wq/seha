@@ -5556,6 +5556,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 13-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287709",
+      "serviceCode": "28790287709",
+      "nationalId": "1136536479",
+      "idNumber": "1136536479",
+      "name": "   سارة بنت عبداللطيف البدر                                                                    ",
+      "admissionDate": "11-05-2026 ",
+      "dischargeDate": "11-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 11-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
