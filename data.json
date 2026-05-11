@@ -5500,6 +5500,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 07-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287702",
+      "serviceCode": "28790287702",
+      "nationalId": "1128833579",
+      "idNumber": "1128833579",
+      "name": "   احمد ياسر نعماني                                                                   ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 06-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
