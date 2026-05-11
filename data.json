@@ -5556,6 +5556,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 11-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287706",
+      "serviceCode": "28790287706",
+      "nationalId": "1114291212",
+      "idNumber": "1114291212",
+      "name": "   ياسمين احمد البلوي                                                                    ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "07-05-2026",
+      "leaveDuration": "2",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 06-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
