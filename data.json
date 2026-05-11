@@ -5472,6 +5472,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 11-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287698",
+      "serviceCode": "28790287698",
+      "nationalId": "1083947992",
+      "idNumber": "1083947992",
+      "name": "   ایمان صالح ال هضبان                                                                 ",
+      "admissionDate": "12-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     مروة القمر محمد يوسف                                             ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
