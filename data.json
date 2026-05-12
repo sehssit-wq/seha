@@ -5626,6 +5626,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 12-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287715",
+      "serviceCode": "28790287715",
+      "nationalId": "1113770505",
+      "idNumber": "1113770505",
+      "name": "   ﻋﺒﺪﷲ اﺑﺮاﻫﻴﻢ ﺣﻜﻤﻲ                                                                         ",
+      "admissionDate": "12-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                                               ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
