@@ -5710,6 +5710,20 @@
       "jobTitle": "أخصائي        ",
       "issueDate":" 18-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287723",
+      "serviceCode": "28790287723",
+      "nationalId": "1108974229",
+      "idNumber": "1108974229",
+      "name": "   نوره عبدالله الصيعري                                                                              ",
+      "admissionDate": "12-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     أنس القوني                                               ",
+      "jobTitle": "أخصائي        ",
+      "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
