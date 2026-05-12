@@ -5724,6 +5724,20 @@
       "jobTitle": "أخصائي        ",
       "issueDate":" 13-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287725",
+      "serviceCode": "28790287725",
+      "nationalId": "1134365236",
+      "idNumber": "1134365236",
+      "name": "   جنى فهد شرقاوي                                                                               ",
+      "admissionDate": "12-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     أنس القوني                                               ",
+      "jobTitle": "أخصائي        ",
+      "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
