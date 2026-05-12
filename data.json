@@ -15,20 +15,6 @@
       "leaveType": "PSL"
     },
     {
-      "leaveCode": "44396851998",
-      "serviceCode": "44396851998",
-      "nationalId": "1119522462",
-      "idNumber": "1119522462",
-      "name": "عيده محمد عماش الشمري",
-      "admissionDate": "2025-11-30",
-      "dischargeDate": "2025-11-30",
-      "leaveDuration": "1",
-      "doctorName": "شريف علي احمد ",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-30",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851999",
       "serviceCode": "44396851999",
       "nationalId": "1137685531",
@@ -5611,6 +5597,20 @@
       "doctorName": "     راشد محمد القباص                                              ",
       "jobTitle": "طبيب عام       ",
       "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287713",
+      "serviceCode": "28790287713",
+      "nationalId": "1189566480",
+      "idNumber": "1189566480",
+      "name": "   سعود موفي سعود فيحان                                                                       ",
+      "admissionDate": "27-04-2026 ",
+      "dischargeDate": "29-04-2026",
+      "leaveDuration": "3",
+      "doctorName": "     راشد محمد القباص                                              ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 27-04-2026",
       "leaveType": "PSL"
    }
   ]
