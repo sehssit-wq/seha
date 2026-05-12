@@ -15,20 +15,6 @@
       "leaveType": "PSL"
     },
     {
-      "leaveCode": "44396851222",
-      "serviceCode": "44396851222",
-      "nationalId": "1133280494",
-      "idNumber": "1133280494",
-      "name": "سعد فايز سعد الجعيد",
-      "admissionDate": "2025-12-01",
-      "dischargeDate": "2025-12-01",
-      "leaveDuration": "1",
-      "doctorName": "زكريا فالح الخليل",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-12-01",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851223",
       "serviceCode": "44396851223",
       "nationalId": "1115084715",
@@ -5639,6 +5625,20 @@
       "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                                               ",
       "jobTitle": "طبيب عام       ",
       "issueDate":" 14-05-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287717",
+      "serviceCode": "28790287717",
+      "nationalId": "1094356126",
+      "idNumber": "1094356126",
+      "name": "   دانه مصري بادي ال وثيله                                                                           ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     أنس القوني                                               ",
+      "jobTitle": "أخصائي        ",
+      "issueDate":" 06-05-2026",
       "leaveType": "PSL"
    }
   ]
