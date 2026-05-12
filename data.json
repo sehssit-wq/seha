@@ -15,20 +15,6 @@
       "leaveType": "PSL"
     },
     {
-      "leaveCode": "44396851999",
-      "serviceCode": "44396851999",
-      "nationalId": "1137685531",
-      "idNumber": "1137685531",
-      "name": "مشعل فهد صالح الغامدي",
-      "admissionDate": "2025-11-30",
-      "dischargeDate": "2025-11-30",
-      "leaveDuration": "1",
-      "doctorName": "شريف علي احمد ",
-      "jobTitle": "طبيب عام",
-      "issueDate": "2025-11-30",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851222",
       "serviceCode": "44396851222",
       "nationalId": "1133280494",
@@ -5639,6 +5625,20 @@
       "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                                               ",
       "jobTitle": "طبيب عام       ",
       "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287716",
+      "serviceCode": "28790287716",
+      "nationalId": "1113770505",
+      "idNumber": "1113770505",
+      "name": "   رياض طلال عيفان المالكي                                                                          ",
+      "admissionDate": "14-05-2026 ",
+      "dischargeDate": "14-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     ﻣﺤﻤﺪ ﺟﻼل                                               ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 14-05-2026",
       "leaveType": "PSL"
    }
   ]
