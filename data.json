@@ -5654,6 +5654,20 @@
       "jobTitle": "أخصائي        ",
       "issueDate":" 09-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287719",
+      "serviceCode": "28790287719",
+      "nationalId": "1094356126",
+      "idNumber": "1094356126",
+      "name": "   دانه مصري بادي ال وثيله                                                                           ",
+      "admissionDate": "05-04-2026 ",
+      "dischargeDate": "05-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     أنس القوني                                               ",
+      "jobTitle": "أخصائي        ",
+      "issueDate":" 05-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
