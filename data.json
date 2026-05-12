@@ -5612,6 +5612,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 27-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287714",
+      "serviceCode": "28790287714",
+      "nationalId": "1123388942",
+      "idNumber": "1123388942",
+      "name": "   مرتجی انور بن عبدالله الناصر                                                                        ",
+      "admissionDate": "12-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     راشد محمد القباص                                              ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
