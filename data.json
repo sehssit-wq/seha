@@ -5584,6 +5584,20 @@
       "jobTitle": "طبيب عام       ",
       "issueDate":" 12-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287711",
+      "serviceCode": "28790287711",
+      "nationalId": "1126851284",
+      "idNumber": "1126851284",
+      "name": "   فواز محمد سعيد القرني                                                                      ",
+      "admissionDate": "12-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "2",
+      "doctorName": "     راشد محمد القباص                                              ",
+      "jobTitle": "طبيب عام       ",
+      "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
