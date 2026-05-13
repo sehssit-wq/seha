@@ -5864,6 +5864,20 @@
       "jobTitle": "أخصائي         ",
       "issueDate":" 18-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287735",
+      "serviceCode": "28790287735",
+      "nationalId": "1141258978",
+      "idNumber": "1141258978",
+      "name": "   رﻳﻤﺎس ﺧﺎﻟﺪ اﻟﺤﺠﻲ                                                                              ",
+      "admissionDate": "19-02-2026 ",
+      "dischargeDate": "19-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     أنس القوني                                               ",
+      "jobTitle": "أخصائي         ",
+      "issueDate":" 19-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
