@@ -5766,6 +5766,20 @@
       "jobTitle": "طبيب عام        ",
       "issueDate":" 06-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287728",
+      "serviceCode": "28790287728",
+      "nationalId": "1094356126",
+      "idNumber": "1094356126",
+      "name": "   دانه مصري بادي ال وثيله                                                                           ",
+      "admissionDate": "30-03-2026 ",
+      "dischargeDate": "30-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمد جلال                                               ",
+      "jobTitle": "طبيب عام        ",
+      "issueDate":" 30-03-2026",
+      "leaveType": "PSL"
    }
   ]
 }
