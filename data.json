@@ -5893,5 +5893,19 @@
       "issueDate":" 26-02-2026",
       "leaveType": "PSL"
    }
+   {
+      "leaveCode": "28790287737",
+      "serviceCode": "28790287737",
+      "nationalId": "1141258978",
+      "idNumber": "1141258978",
+      "name": "   رﻳﻤﺎس ﺧﺎﻟﺪ اﻟﺤﺠﻲ                                                                              ",
+      "admissionDate": "02-04-2026 ",
+      "dischargeDate": "02-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     راشد محمد القباص                                               ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 02-04-2026",
+      "leaveType": "PSL"
+   }
   ]
 }
