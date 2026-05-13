@@ -5892,6 +5892,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 02-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287739",
+      "serviceCode": "28790287739",
+      "nationalId": "1132433408",
+      "idNumber": "1132433408",
+      "name": "   ريناد عبدالله عسيري                                                                              ",
+      "admissionDate": "07-05-2026 ",
+      "dischargeDate": "07-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 07-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
