@@ -5850,6 +5850,20 @@
       "jobTitle": "أخصائي         ",
       "issueDate":" 16-02-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287734",
+      "serviceCode": "28790287734",
+      "nationalId": "1124181338",
+      "idNumber": "1124181338",
+      "name": "   عبدالرحمن بندر بن ربيعان                                                                             ",
+      "admissionDate": "18-02-2026 ",
+      "dischargeDate": "18-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "     أنس القوني                                               ",
+      "jobTitle": "أخصائي         ",
+      "issueDate":" 18-02-2026",
+      "leaveType": "PSL"
    }
   ]
 }
