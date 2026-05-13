@@ -5780,6 +5780,20 @@
       "jobTitle": "طبيب عام        ",
       "issueDate":" 30-03-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287729",
+      "serviceCode": "28790287729",
+      "nationalId": "1139677585",
+      "idNumber": "1139677585",
+      "name": "   اسماء سلامة عيد الجميلي                                                                            ",
+      "admissionDate": "11-05-2026 ",
+      "dischargeDate": "11-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     محمد جلال                                               ",
+      "jobTitle": "طبيب عام        ",
+      "issueDate":" 11-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
