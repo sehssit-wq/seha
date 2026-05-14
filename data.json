@@ -5990,6 +5990,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 30-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287748",
+      "serviceCode": "28790287748",
+      "nationalId": "1140370238",
+      "idNumber": "1140370238",
+      "name": "   حمدان محمد السبوتي                                                                                ",
+      "admissionDate": "17-05-2026 ",
+      "dischargeDate": "19-05-2026",
+      "leaveDuration": "3",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 17-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
