@@ -5934,6 +5934,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 14-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287742",
+      "serviceCode": "28790287742",
+      "nationalId": "1007018458",
+      "idNumber": "1007018458",
+      "name": "   مريم لا في سليم العطوي                                                                              ",
+      "admissionDate": "14-05-2026 ",
+      "dischargeDate": "14-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 14-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
