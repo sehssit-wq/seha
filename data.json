@@ -5976,6 +5976,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 02-04-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287747",
+      "serviceCode": "28790287747",
+      "nationalId": "1137159818",
+      "idNumber": "1137159818",
+      "name": "   فاطمة حسين مرزوق النخلي                                                                               ",
+      "admissionDate": "30-04-2026 ",
+      "dischargeDate": "30-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 30-04-2026",
+      "leaveType": "PSL"
    }
   ]
 }
