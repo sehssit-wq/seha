@@ -5920,6 +5920,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 05-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287741",
+      "serviceCode": "28790287741",
+      "nationalId": "1059904886",
+      "idNumber": "1059904886",
+      "name": "   صالحه ناصر بن دبلان                                                                              ",
+      "admissionDate": "14-05-2026 ",
+      "dischargeDate": "14-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 14-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
