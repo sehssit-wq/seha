@@ -5906,6 +5906,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 07-05-2026",
       "leaveType": "PSL"
+   },
+   {
+      "leaveCode": "28790287740",
+      "serviceCode": "28790287740",
+      "nationalId": "1150093670",
+      "idNumber": "1150093670",
+      "name": "   الجوري فهد البلوي                                                                              ",
+      "admissionDate": "05-05-2026 ",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 05-05-2026",
+      "leaveType": "PSL"
    }
   ]
 }
