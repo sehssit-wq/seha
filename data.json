@@ -15,48 +15,6 @@
       "leaveType": "PSL"
     },
     {
-      "leaveCode": "44396851226",
-      "serviceCode": "44396851226",
-      "nationalId": "1137523203",
-      "idNumber": "1137523203",
-      "name": "رنا ياسر محمد بحراوي",
-      "admissionDate": "2025-11-18",
-      "dischargeDate": "2025-11-18",
-      "leaveDuration": "1",
-      "doctorName": "زكريا فالح الخليل",
-      "jobTitle": "طبيب عام ",
-      "issueDate": "2025-11-18",
-      "leaveType": "GSL"
-    },
-    {
-      "leaveCode": "44396851227",
-      "serviceCode": "44396851227",
-      "nationalId": "1137523203",
-      "idNumber": "1137523203",
-      "name": "رنا ياسر محمد بحراوي",
-      "admissionDate": "2025-11-30",
-      "dischargeDate": "2025-11-30",
-      "leaveDuration": "1",
-      "doctorName": "زكريا فالح الخليل",
-      "jobTitle": "طبيب عام ",
-      "issueDate": "2025-11-30",
-      "leaveType": "GSL"
-    },
-    {
-      "leaveCode": "44396851228",
-      "serviceCode": "44396851228",
-      "nationalId": "1125352235",
-      "idNumber": "1125352235",
-      "name": "فاطمه فارس مغرق الحارثي",
-      "admissionDate": "2025-12-02",
-      "dischargeDate": "2025-12-02",
-      "leaveDuration": "1",
-      "doctorName": "زكريا فالح الخليل",
-      "jobTitle": "طبيب عام ",
-      "issueDate": "2025-12-02",
-      "leaveType": "GSL"
-    },
-    {
       "leaveCode": "44396851229",
       "serviceCode": "44396851229",
       "nationalId": "1136657572",
