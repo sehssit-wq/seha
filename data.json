@@ -13,6 +13,20 @@
       "jobTitle": "طب بشري",
       "issueDate": "2025-06-11",
       "leaveType": "اعتيادية"
+    },
+    {
+      "leaveCode": "28790287750",
+      "serviceCode": "28790287750",
+      "nationalId": "1110539473",
+      "idNumber": "1110539473",
+      "name": "   مشعل عبدالعزيز العنزي                                                                                 ",
+      "admissionDate": "17-05-2026 ",
+      "dischargeDate": "17-05-2026",
+      "leaveDuration": "2",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 17-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
