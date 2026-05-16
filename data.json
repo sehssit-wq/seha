@@ -27,6 +27,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 17-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790287751",
+      "serviceCode": "28790287751",
+      "nationalId": "1048788184",
+      "idNumber": "1048788184",
+      "name": "   إيمان ناصر الحويطي                                                                                  ",
+      "admissionDate": "17-05-2026 ",
+      "dischargeDate": "21-05-2026",
+      "leaveDuration": "5",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 18-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
