@@ -55,6 +55,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 17-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790287753",
+      "serviceCode": "28790287753",
+      "nationalId": "1082861137",
+      "idNumber": "1082861137",
+      "name": "   حمد تركي تراحيب العتيبي                                                                                  ",
+      "admissionDate": "16-05-2026 ",
+      "dischargeDate": "16-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 16-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
