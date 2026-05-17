@@ -69,6 +69,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 16-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790287753",
+      "serviceCode": "28790287753",
+      "nationalId": "1138434749",
+      "idNumber": "1138434749",
+      "name": "   رائد عبد الله الشمري                                                                                   ",
+      "admissionDate": "04-05-2026 ",
+      "dischargeDate": "04-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبد الوهاب القحطاني                                                 ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 04-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
