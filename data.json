@@ -83,6 +83,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 04-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260992",
+      "serviceCode": "28790260992",
+      "nationalId": "1129910897",
+      "idNumber": "1129910897",
+      "name": "   شهد سعود نصار الدوسري                                                                                   ",
+      "admissionDate": "06-05-2026 ",
+      "dischargeDate": "06-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبد الوهاب القحطاني                                                 ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 06-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
