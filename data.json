@@ -111,6 +111,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 05-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260994",
+      "serviceCode": "28790260994",
+      "nationalId": "1140897248",
+      "idNumber": "1140897248",
+      "name": "   ريماس فرج المطيري                                                                                     ",
+      "admissionDate": "11-05-2026 ",
+      "dischargeDate": "11-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "     عبد الوهاب القحطاني                                                 ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 11-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
