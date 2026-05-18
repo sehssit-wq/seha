@@ -195,6 +195,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 27-04-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "25131397243",
+      "serviceCode": "25131397243",
+      "nationalId": "1128771977",
+      "idNumber": "1128771977",
+      "name": "   نوف ابراهیم حسین الیحیی                                                                                     ",
+      "admissionDate": "17-02-2026 ",
+      "dischargeDate": "17-02-2026",
+      "leaveDuration": "1",
+      "doctorName": "      رشا مرشد العواد                                                     ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 17-02-2026",
+      "leaveType": "GSL"
     }
   ]
 }
