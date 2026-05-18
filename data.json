@@ -139,6 +139,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 04-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260996",
+      "serviceCode": "28790260996",
+      "nationalId": "1140897248",
+      "idNumber": "1140897248",
+      "name": "   ريماس فرج المطيري                                                                                     ",
+      "admissionDate": "06-04-2026 ",
+      "dischargeDate": "06-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "     نوف عبد الكريم حمود الشهري                                                  ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 06-04-2026",
+      "leaveType": "PSL"
     }
   ]
 }
