@@ -223,6 +223,20 @@
       "jobTitle": "طبيب عام     ",
       "issueDate": "2026-04-26",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260101",
+      "serviceCode": "28790260101",
+      "nationalId": "2189521533",
+      "idNumber": "2189521533",
+      "name": "   عبدالرحمن طارق عبدالجابر                                                                                     ",
+      "admissionDate": "21-05-2026 ",
+      "dischargeDate": "21-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبد الرحمن                                                     ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 21-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
