@@ -279,6 +279,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 20-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260106",
+      "serviceCode": "28790260106",
+      "nationalId": "1162432312",
+      "idNumber": "1162432312",
+      "name": "   عبدالله بتال خلف ال بريك                                                                                          ",
+      "admissionDate": "21-05-2026 ",
+      "dischargeDate": "21-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبد الرحمن                                                     ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 21-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
