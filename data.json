@@ -307,6 +307,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 21-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260006",
+      "serviceCode": "28790260006",
+      "nationalId": "1135679239",
+      "idNumber": "1135679239",
+      "name": "   منار تريحيب العتيبي                                                                                            ",
+      "admissionDate": "23-05-2026 ",
+      "dischargeDate": "23-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبد الرحمن                                                     ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 23-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
