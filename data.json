@@ -321,6 +321,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 23-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260007",
+      "serviceCode": "28790260007",
+      "nationalId": "1135500302",
+      "idNumber": "1135500302",
+      "name": "   هشام محسن القرشي                                                                                            ",
+      "admissionDate": "24-05-2026 ",
+      "dischargeDate": "25-05-2026",
+      "leaveDuration": "2",
+      "doctorName": "      أحمد عبد الرحمن                                                     ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 24-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
