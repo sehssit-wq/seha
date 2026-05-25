@@ -335,6 +335,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 24-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260008",
+      "serviceCode": "28790260008",
+      "nationalId": "1134365236",
+      "idNumber": "1134365236",
+      "name": "   جنى فهد شرقاوي                                                                                            ",
+      "admissionDate": "25-05-2026 ",
+      "dischargeDate": "25-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبد الرحمن                                                     ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 25-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
