@@ -364,7 +364,7 @@
       "issueDate":" 02-06-2026",
       "leaveType": "PSL"
     },
-    {
+   {
       "leaveCode": "28790260760",
       "serviceCode": "28790260760",
       "nationalId": "1006166340",
@@ -373,10 +373,10 @@
       "admissionDate": "07-06-2026 ",
       "dischargeDate": "09-06-2026",
       "leaveDuration": "3",
-      "doctorName": "      عبد الوهاب القحطاني "
+      "doctorName": "      عبد الوهاب القحطاني                                                      ",
       "jobTitle": "طبيب عام         ",
       "issueDate":" 07-06-2026",
       "leaveType": "PSL"
-    }
+   } 
   ]
 }
