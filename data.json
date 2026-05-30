@@ -349,6 +349,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 25-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260009",
+      "serviceCode": "28790260009",
+      "nationalId": "1006166340",
+      "idNumber": "1006166340",
+      "name": "   مشاعل ناصر حماد الحويطي                                                                                            ",
+      "admissionDate": "03-05-2026 ",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "3",
+      "doctorName": "      أحمد عبد الرحمن                                                     ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 03-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
