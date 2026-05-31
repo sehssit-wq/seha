@@ -377,6 +377,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 07-06-2026",
       "leaveType": "PSL"
-   } 
+   },
+    {
+      "leaveCode": "28790260761",
+      "serviceCode": "28790260761",
+      "nationalId": "1104390636",
+      "idNumber": "1104390636",
+      "name": "   يارا بدر سمكري                                                                                              ",
+      "admissionDate": "01-06-2026 ",
+      "dischargeDate": "01-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عبد الوهاب القحطاني                                                      ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 01-06-2026",
+      "leaveType": "PSL"
+    }
   ]
 }
