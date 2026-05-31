@@ -405,6 +405,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 01-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26014829165",
+      "serviceCode": "26014829165",
+      "nationalId": "1122833013",
+      "idNumber": "1122833013",
+      "name": "   راشد عبدالله راشد المري                                                                                              ",
+      "admissionDate": "29-05-2026 ",
+      "dischargeDate": "29-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      مي على ابراهيم على                                                       ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 29-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
