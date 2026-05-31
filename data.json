@@ -391,6 +391,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 01-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "28790260762",
+      "serviceCode": "28790260762",
+      "nationalId": "1122833013",
+      "idNumber": "1122833013",
+      "name": "   راشد عبدالله راشد المري                                                                                              ",
+      "admissionDate": "01-06-2026 ",
+      "dischargeDate": "01-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      عبد الوهاب القحطاني                                                      ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 01-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
