@@ -433,6 +433,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 18-01-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26014829167",
+      "serviceCode": "26014829167",
+      "nationalId": "1141947984",
+      "idNumber": "1141947984",
+      "name": "   فهيد ناجم فهد السبيعي                                                                                                ",
+      "admissionDate": "25-01-2026 ",
+      "dischargeDate": "26-01-2026",
+      "leaveDuration": "2",
+      "doctorName": "      عبد الوهاب القحطاني                                                         ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 25-01-2026",
+      "leaveType": "PSL"
     }
   ]
 }
