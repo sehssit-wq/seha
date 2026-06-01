@@ -447,6 +447,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 25-01-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26014829168",
+      "serviceCode": "26014829168",
+      "nationalId": "1141947984",
+      "idNumber": "1141947984",
+      "name": "   فهيد ناجم فهد السبيعي                                                                                                ",
+      "admissionDate": "01-02-2026 ",
+      "dischargeDate": "02-02-2026",
+      "leaveDuration": "2",
+      "doctorName": "      مي على ابراهيم على                                                          ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 01-02-2026",
+      "leaveType": "PSL"
     }
   ]
 }
