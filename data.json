@@ -461,6 +461,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 01-02-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26014829169",
+      "serviceCode": "26014829169",
+      "nationalId": "1042623262",
+      "idNumber": "1042623262",
+      "name": "   وفاء مسفر محمد القرني                                                                                                 ",
+      "admissionDate": "02-06-2026 ",
+      "dischargeDate": "04-06-2026",
+      "leaveDuration": "3",
+      "doctorName": "      مي على ابراهيم على                                                          ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 02-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
