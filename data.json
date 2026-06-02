@@ -475,6 +475,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 02-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291691",
+      "serviceCode": "260148291691",
+      "nationalId": "1083947992",
+      "idNumber": "1083947992",
+      "name": "   ایمان صالح ال هضبان                                                                                                  ",
+      "admissionDate": "02-06-2026 ",
+      "dischargeDate": "04-06-2026",
+      "leaveDuration": "3",
+      "doctorName": "      مي على ابراهيم على                                                          ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 02-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
