@@ -489,6 +489,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 02-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291692",
+      "serviceCode": "260148291692",
+      "nationalId": "1042623221",
+      "idNumber": "1042623221",
+      "name": "   فاطمه مسفر محمد القرني                                                                                                   ",
+      "admissionDate": "02-06-2026 ",
+      "dischargeDate": "04-06-2026",
+      "leaveDuration": "3",
+      "doctorName": "      مي على ابراهيم على                                                          ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 02-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
