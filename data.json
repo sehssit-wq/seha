@@ -531,6 +531,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 03-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291695",
+      "serviceCode": "260148291695",
+      "nationalId": "1079812796",
+      "idNumber": "1079812796",
+      "name": "   حنين ناصر حماد الحويطي                                                                                                      ",
+      "admissionDate": "04-06-2026 ",
+      "dischargeDate": "04-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      مي على ابراهيم على                                                          ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 04-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
