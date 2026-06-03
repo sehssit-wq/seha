@@ -517,6 +517,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 06-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291694",
+      "serviceCode": "260148291694",
+      "nationalId": "1089138406",
+      "idNumber": "1089138406",
+      "name": "   ندى علي البلوي                                                                                                      ",
+      "admissionDate": "03-06-2026 ",
+      "dischargeDate": "03-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      مي على ابراهيم على                                                          ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 03-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
