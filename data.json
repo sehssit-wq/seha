@@ -615,6 +615,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 09-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291202",
+      "serviceCode": "260148291202",
+      "nationalId": "1004025126",
+      "idNumber": "1004025126",
+      "name": "   ریاب حامد محمد الازوري                                                                                                        ",
+      "admissionDate": "02-06-2026 ",
+      "dischargeDate": "02-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 02-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
