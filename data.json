@@ -503,6 +503,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 02-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291693",
+      "serviceCode": "260148291693",
+      "nationalId": "1117118768",
+      "idNumber": "1117118768",
+      "name": "   شذى محمد العمراني                                                                                                     ",
+      "admissionDate": "06-06-2026 ",
+      "dischargeDate": "06-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      مي على ابراهيم على                                                          ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 06-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
