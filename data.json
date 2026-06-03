@@ -556,8 +556,22 @@
       "dischargeDate": "03-03-2026",
       "leaveDuration": "1",
       "doctorName": "      أحمد عبدالوهاب                                                            ",
-      "jobTitle": "طبيب عام         ",
+      "jobTitle": " استشاري         ",
       "issueDate":" 03-03-2026",
+      "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291099",
+      "serviceCode": "260148291099",
+      "nationalId": "1113223323",
+      "idNumber": "1113223323",
+      "name": "   ثامر محمد محفوظ                                                                                                       ",
+      "admissionDate": "21-04-2026 ",
+      "dischargeDate": "21-04-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": "أخصائية          ",
+      "issueDate":" 21-04-2026",
       "leaveType": "PSL"
     }
   ]
