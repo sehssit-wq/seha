@@ -545,6 +545,20 @@
       "jobTitle": "طبيب عام         ",
       "issueDate":" 04-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291696",
+      "serviceCode": "260148291696",
+      "nationalId": "1113223323",
+      "idNumber": "1113223323",
+      "name": "   ثامر محمد محفوظ                                                                                                       ",
+      "admissionDate": "03-03-2026 ",
+      "dischargeDate": "03-03-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أحمد عبدالوهاب                                                            ",
+      "jobTitle": "طبيب عام         ",
+      "issueDate":" 03-03-2026",
+      "leaveType": "PSL"
     }
   ]
 }
