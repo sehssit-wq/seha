@@ -587,6 +587,20 @@
       "jobTitle": " استشاري         ",
       "issueDate":" 08-02-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291081",
+      "serviceCode": "260148291081",
+      "nationalId": "1141027407",
+      "idNumber": "1141027407",
+      "name": "   محمد نائف العتيبي                                                                                                        ",
+      "admissionDate": "05-05-2026 ",
+      "dischargeDate": "05-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 05-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
