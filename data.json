@@ -629,6 +629,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 02-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291203",
+      "serviceCode": "260148291203",
+      "nationalId": "1126187853",
+      "idNumber": "1126187853",
+      "name": "   سلطان حمود القرني                                                                                                         ",
+      "admissionDate": "04-06-2026 ",
+      "dischargeDate": "04-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 04-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
