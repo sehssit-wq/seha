@@ -671,6 +671,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 13-04-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291206",
+      "serviceCode": "260148291206",
+      "nationalId": "1113491557",
+      "idNumber": "1113491557",
+      "name": "   كادي احمد العيوني                                                                                                          ",
+      "admissionDate": "07-06-2026 ",
+      "dischargeDate": "07-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 07-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
