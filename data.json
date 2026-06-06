@@ -741,6 +741,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 06-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291210",
+      "serviceCode": "260148291210",
+      "nationalId": "1115327262",
+      "idNumber": "1115327262",
+      "name": "   غدير محمد الصخري                                                                                                             ",
+      "admissionDate": "02-06-2026 ",
+      "dischargeDate": "04-06-2026",
+      "leaveDuration": "3",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 02-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
