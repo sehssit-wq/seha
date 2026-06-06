@@ -699,6 +699,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 08-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291208",
+      "serviceCode": "260148291208",
+      "nationalId": "1137872972",
+      "idNumber": "1137872972",
+      "name": "   أريام سيف محمد الشهراني                                                                                                            ",
+      "admissionDate": "12-05-2026 ",
+      "dischargeDate": "12-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 12-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
