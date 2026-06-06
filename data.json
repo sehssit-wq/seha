@@ -727,6 +727,20 @@
       "jobTitle": " استشاري         ",
       "issueDate":" 12-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291209",
+      "serviceCode": "260148291209",
+      "nationalId": "1106556820",
+      "idNumber": "1106556820",
+      "name": "   عمر مبارك العنزي                                                                                                             ",
+      "admissionDate": "06-06-2026 ",
+      "dischargeDate": "07-06-2026",
+      "leaveDuration": "2",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 06-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
