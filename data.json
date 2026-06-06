@@ -685,6 +685,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 07-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291207",
+      "serviceCode": "260148291207",
+      "nationalId": "1122873621",
+      "idNumber": "1122873621",
+      "name": "   احمد علي بركوت الناشري                                                                                                          ",
+      "admissionDate": "08-06-2026 ",
+      "dischargeDate": "08-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 08-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
