@@ -811,6 +811,20 @@
       "jobTitle": " ﻃﺒﻴﺐ ﻋﺎم         ",
       "issueDate":" 03-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291214",
+      "serviceCode": "260148291214",
+      "nationalId": "1024631556",
+      "idNumber": "1024631556",
+      "name": "   هلاله فريج عويض العطوي                                                                                                                ",
+      "admissionDate": "04-06-2026 ",
+      "dischargeDate": "04-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 04-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
