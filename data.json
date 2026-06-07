@@ -797,6 +797,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 07-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "26041070835",
+      "serviceCode": "26041070835",
+      "nationalId": "1140532381",
+      "idNumber": "1140532381",
+      "name": "   صالحه سعود الجعيد                                                                                                                ",
+      "admissionDate": "03-06-2026 ",
+      "dischargeDate": "03-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      ﻣﺤﻤﻮد ﻣﺮﺳﻰ اﻟﺴﻴﺪ اﺑﺮاﻫﻴﻢ                                                               ",
+      "jobTitle": " ﻃﺒﻴﺐ ﻋﺎم         ",
+      "issueDate":" 03-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
