@@ -783,6 +783,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 07-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291213",
+      "serviceCode": "260148291213",
+      "nationalId": "1057285312",
+      "idNumber": "1057285312",
+      "name": "   احمد محمد مطر الرشيدي                                                                                                               ",
+      "admissionDate": "07-06-2026 ",
+      "dischargeDate": "07-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 07-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
