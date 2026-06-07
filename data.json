@@ -755,6 +755,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 02-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291211",
+      "serviceCode": "260148291211",
+      "nationalId": "1007018458",
+      "idNumber": "1007018458",
+      "name": "   مريم لا في سليم العطوي                                                                                                             ",
+      "admissionDate": "07-06-2026 ",
+      "dischargeDate": "07-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 07-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
