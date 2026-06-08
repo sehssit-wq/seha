@@ -853,6 +853,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 08-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291216",
+      "serviceCode": "260148291216",
+      "nationalId": "1029191986",
+      "idNumber": "1029191986",
+      "name": "   عزيزه عوده حسن البلوي                                                                                                                 ",
+      "admissionDate": "09-06-2026 ",
+      "dischargeDate": "09-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 09-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
