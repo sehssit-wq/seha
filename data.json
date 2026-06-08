@@ -825,6 +825,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 04-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291215",
+      "serviceCode": "260148291215",
+      "nationalId": "1012665947",
+      "idNumber": "1012665947",
+      "name": "   رشا غرم الغامدي                                                                                                                 ",
+      "admissionDate": "08-06-2026 ",
+      "dischargeDate": "08-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 08-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
