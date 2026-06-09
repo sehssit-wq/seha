@@ -951,6 +951,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 09-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291222",
+      "serviceCode": "260148291222",
+      "nationalId": "1130105032",
+      "idNumber": "1130105032",
+      "name": "   رغد محمد صالح ال قاسم                                                                                                                     ",
+      "admissionDate": "17-05-2026 ",
+      "dischargeDate": "17-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 17-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
