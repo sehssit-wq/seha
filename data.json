@@ -895,6 +895,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 08-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291219",
+      "serviceCode": "260148291219",
+      "nationalId": "1068319662",
+      "idNumber": "1068319662",
+      "name": "   أنس عيد مطير العمراني                                                                                                                   ",
+      "admissionDate": "09-06-2026 ",
+      "dischargeDate": "09-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 09-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
