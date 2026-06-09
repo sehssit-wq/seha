@@ -923,6 +923,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 17-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291220",
+      "serviceCode": "260148291220",
+      "nationalId": "1070394976",
+      "idNumber": "1070394976",
+      "name": "   فاطمه دهيمش دخينان العرادي                                                                                                                       ",
+      "admissionDate": "19-05-2026 ",
+      "dischargeDate": "19-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 19-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
