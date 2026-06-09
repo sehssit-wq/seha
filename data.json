@@ -937,6 +937,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 19-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291221",
+      "serviceCode": "260148291221",
+      "nationalId": "1100457926",
+      "idNumber": "1100457926",
+      "name": "   اثير ابراهيم العبيدالله                                                                                                                        ",
+      "admissionDate": "09-06-2026 ",
+      "dischargeDate": "09-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 09-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
