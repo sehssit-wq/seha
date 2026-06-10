@@ -993,6 +993,20 @@
       "jobTitle": " طبيب عام         ",
       "issueDate":" 03-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291225",
+      "serviceCode": "260148291225",
+      "nationalId": "1041076215",
+      "idNumber": "1041076215",
+      "name": "   مريم صالح ظاهر البلوي                                                                                                                      ",
+      "admissionDate": "09-06-2026 ",
+      "dischargeDate": "09-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      نوف عبد الكريم حمود الشهري                                                               ",
+      "jobTitle": " طبيب عام         ",
+      "issueDate":" 09-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
