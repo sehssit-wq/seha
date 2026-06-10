@@ -979,6 +979,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 18-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291224",
+      "serviceCode": "260148291224",
+      "nationalId": "1041076215",
+      "idNumber": "1041076215",
+      "name": "   مريم صالح ظاهر البلوي                                                                                                                      ",
+      "admissionDate": "03-06-2026 ",
+      "dischargeDate": "03-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      محمود مرسي السيد ابراهيم                                                              ",
+      "jobTitle": " طبيب عام         ",
+      "issueDate":" 03-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
