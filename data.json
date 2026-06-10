@@ -965,6 +965,20 @@
       "jobTitle": " أخصائية         ",
       "issueDate":" 17-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291223",
+      "serviceCode": "260148291223",
+      "nationalId": "1041076215",
+      "idNumber": "1041076215",
+      "name": "   مريم صالح ظاهر البلوي                                                                                                                      ",
+      "admissionDate": "18-05-2026 ",
+      "dischargeDate": "18-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      أسماء محمد هارون                                                             ",
+      "jobTitle": " أخصائية         ",
+      "issueDate":" 18-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
