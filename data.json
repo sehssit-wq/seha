@@ -1007,6 +1007,20 @@
       "jobTitle": " طبيب عام         ",
       "issueDate":" 09-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291226",
+      "serviceCode": "260148291226",
+      "nationalId": "1057145714",
+      "idNumber": "1057145714",
+      "name": "   رحمة علي بن عبدالله البحيري                                                                                                                       ",
+      "admissionDate": "10-06-2026 ",
+      "dischargeDate": "11-06-2026",
+      "leaveDuration": "2",
+      "doctorName": "      نوف عبد الكريم حمود الشهري                                                               ",
+      "jobTitle": " طبيب عام         ",
+      "issueDate":" 10-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
