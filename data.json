@@ -1049,6 +1049,20 @@
       "jobTitle": " طبيب عام         ",
       "issueDate":" 24-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291229",
+      "serviceCode": "260148291229",
+      "nationalId": "1104166291",
+      "idNumber": "1104166291",
+      "name": "   أيمن عوده حماد الحويطي                                                                                                                           ",
+      "admissionDate": "12-06-2026 ",
+      "dischargeDate": "12-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      نوف عبد الكريم حمود الشهري                                                                 ",
+      "jobTitle": " طبيب عام         ",
+      "issueDate":" 12-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
