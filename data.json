@@ -1119,6 +1119,20 @@
       "jobTitle": " طبيب عام         ",
       "issueDate":" 21-05-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291234",
+      "serviceCode": "260148291234",
+      "nationalId": "1129836241",
+      "idNumber": "1129836241",
+      "name": "   ليان انس إسماعيل                                                                                                                                ",
+      "admissionDate": "30-05-2026 ",
+      "dischargeDate": "30-05-2026",
+      "leaveDuration": "1",
+      "doctorName": "      ﻣﻲ ﻋﲆ اﺑﺮاﻫﻴﻢ ﻋﲆ                                                                  ",
+      "jobTitle": " طبيب عام         ",
+      "issueDate":" 30-05-2026",
+      "leaveType": "PSL"
     }
   ]
 }
