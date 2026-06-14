@@ -1077,6 +1077,20 @@
       "jobTitle": " طبيب عام         ",
       "issueDate":" 21-06-2026",
       "leaveType": "PSL"
+    },
+    {
+      "leaveCode": "260148291231",
+      "serviceCode": "260148291231",
+      "nationalId": "1037935168",
+      "idNumber": "1037935168",
+      "name": "   رجواء محمد هزاع العريفي                                                                                                                              ",
+      "admissionDate": "07-06-2026 ",
+      "dischargeDate": "07-06-2026",
+      "leaveDuration": "1",
+      "doctorName": "      نوف عبد الكريم حمود الشهري                                                                 ",
+      "jobTitle": " طبيب عام         ",
+      "issueDate":" 07-06-2026",
+      "leaveType": "PSL"
     }
   ]
 }
